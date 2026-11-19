@@ -1,0 +1,231 @@
+department|category|product_name|brand|promo_price_sar|list_price_sar
+fragrances|fragrances-for-her|Franck Olivier Eau de Parfum for Women - 50ml|Franck Olivier|49.27|111.00
+fragrances|fragrances-for-her|Boucheron Quatre Eau de Parfum for Women - 100 ml|Boucheron|149.99|506.00
+fragrances|fragrances-for-her|Prada Paradoxe Intense Eau De Parfum for Women - 90 ml|Prada|488.9|851.00
+fragrances|fragrances-for-her|Guerlain Insolence Women Eau de Toilette - 75 ml|Guerlain|337.24|582.00
+fragrances|fragrances-for-her|Calvin Klein Eternity Moment Eau de Parfum for Women - 100 ml|Calvin Klein|93.96|425.01
+fragrances|fragrances-for-her|Burberry London Eau de Parfum for Women - 100 ml|Burberry|175.5|520.00
+fragrances|oriental-fragrances|Ibraq Tobacco Collection Jamaican Tobacco Unisex - 100 ml|Ibraq|149.01|358.00
+fragrances|oriental-fragrances|Almajed For Oud Maamoul Dossary - 130 gm|Almajed For Oud|29|57.99
+fragrances|oriental-fragrances|Lattafa Pure Musk Eau de Parfum - 100 ml|Lattafa|45|65.00
+fragrances|oriental-fragrances|Almajed For Oud Secret Serious Perfume For Men - 100 ml|Almajed For Oud|125.01|250.00
+fragrances|oriental-fragrances|Alezz Oud Hersh Lahab Unisex Edp - 100 ml|Alezz Oud|199|400.00
+fragrances|oriental-fragrances|Lattafa Pure Oudi Eau de Parfum For Unisex - 100 ml|Lattafa|39.95|79.01
+fragrances|fragrances-for-him|Jaguar Classic Blue Eau de Toilette for Men - 100 ml|Jaguar|50.63|379.99
+fragrances|fragrances-for-him|Givenchy Gentleman Reserve Privee EDP 100 ml|Givenchy|351|621.00
+fragrances|fragrances-for-him|Chopard Oud Malaki Eau de Parfum for Men - 80 ml|Chopard|188|665.00
+fragrances|fragrances-for-him|Jean Paul Gaultier Le Male Intense Eau de Parfum for Men - 125 ml|Jean Paul Gaultier|413.94|730.25
+fragrances|fragrances-for-him|Gucci Guilty Pour Homme Elixir De Parfum for Men - 60 ml|Gucci|425.99|690.00
+fragrances|fragrances-for-him|Dolce & Gabbana The One Eau de Parfum for Men - 50 ml|Dolce & Gabbana|253|430.00
+fragrances|hair-mist|Body Spa Hair Mist Amber - 30 ml|Body Spa|11.95|20.00
+fragrances|hair-mist|Albdah Musk Oud Hair Mist for Women - 20 ml|Albdah|39.95|49.00
+fragrances|hair-mist|Albdah Silk Musk Hair Mist for Women - 20 ml|Albdah|39.95|49.00
+fragrances|hair-mist|Body Spa Hair Mist Almond - 30 ml|Body Spa|11.95|20.00
+fragrances|hair-mist|Narciso Rodriguez Narciso Hair Mist for Women - 30 ml|Narciso Rodriguez|135.84|267.01
+fragrances|kids-fragrances|Franck Olivier Baby Boy Scented Water - 30 ml|Franck Olivier|39.94|75.00
+fragrances|kids-fragrances|Kidou Bambini E Mamme Poudree Eau de Parfum for Kids - 100 ml|Bambini|51.95|74.75
+fragrances|kids-fragrances|Kidou Bambini E Mamme Jour Eau de Parfum for Kids - 100 ml|Bambini|51.95|74.75
+makeup|lips|Tocobo Vita Glazed Lip Mask - 20 ml|Tocobo|57.5|115.00
+makeup|lips|Tocobo Lemon Sugar Scrub Lip Mask - 20 ml|Tocobo|54.63|109.25
+makeup|lips|Cover Girl Exhibitionist Ultra-Matte Lipstick - 620 Risky Business|CoverGirl|17.39|59.89
+makeup|lips|Cover Girl Exhibitionist Ultra-Matte Lipstick - 678 Sweeten Up|CoverGirl|17.39|59.89
+makeup|lips|Cover Girl Exhibitionist Ultra-Matte Lipstick - 630 Gemini|CoverGirl|17.39|59.89
+makeup|eyes|Essence I Love Extreme Crazy Volume Mascara - Black|Essence|13|13
+makeup|eyes|Rimmel Kohl Pen - 05 Nude|Rimmel|21.6|36.00
+makeup|eyes|NYX Epic Ink Liner - Black|NYX|36.96|49.29
+makeup|eyes|Essence Lash Princess False Lash Effect Mascara - Black|Essence|16|16
+makeup|eyes|Makeup Revolution Renaissance Flick - Black|Makeup Revolution|30.99|62.00
+makeup|eyes|Rimmel Kohl Pen - 01 Black|Rimmel|21.6|36.00
+makeup|face|Revox B77 Just Glycolic Acid 7% Toner - 250 ml|Revox|35.65|71.30
+makeup|face|CoverGirl TruBlend Skin Enhancer Highlighter Balm 320 - Rose Beam|CoverGirl|49.89|66.52
+makeup|face|CoverGirl TruBlend Skin Enhancer Contour Balm - 120 Sculpted|CoverGirl|49.89|66.52
+makeup|face|CoverGirl Clean Fresh Skin Milk - 550 Light/Medium 30 ml|CoverGirl|26.09|60.33
+makeup|face|CoverGirl Clean Matte Pressed Powder - 525 Buff Beige 10 gm|CoverGirl|29.08|38.77
+makeup|nails|Rimmel 60 Seconds Nail Polish 315 Queen Of Tarts - Red|Rimmel|7.99|9.99
+makeup|nails|Accez Nail Polish Remover - 16 Wipes|Accez|20.7|23.00
+makeup|nails|Accez Nail Polish Remover Acetone Free 100 ml|Accez|11.65|12.95
+makeup|nails|A-Derma Hand & Nail Cream Hydrating Hyaluronic Acid 50ml|A-Derma|28.75|57.50
+makeup|make-up-tools|Clevie Round Organic Cotton Pads 80 pcs|Clevie|14.95|14.95
+makeup|make-up-tools|Accez Eyelash Glue 5gm|Accez|24.05|36.80
+makeup|make-up-tools|Clevie Oval Organic Cotton Pads 50 pcs|Clevie|16.1|16.1
+makeup|make-up-tools|Accez 4-in-1 Nail Buffer|Accez|10.5|16.10
+makeup|eyelashes|Ousha Pre-Glued Eyelash Extension|Ousha|44.15|49.00
+makeup|eyelashes|Glitz Lashes Lazurde Natural Hair|Glitz|34.5|34.5
+makeup|eyelashes|Accez False Eyelashes Akila|Accez|19.45|29.90
+baby-care|baby-grooming|Johnson's Baby Cotton Buds 100 sticks|Johnson & Johnson|10.86|18.10
+baby-care|baby-grooming|Frida Baby Basics Kit|Frida Baby|171.64|228.85
+baby-care|baby-grooming|Optimal Brush And Comb Set Blue|Optimal|26|26
+baby-care|baby-grooming|Cetaphil Baby Wash & Shampoo With Organic Calendula - 400 ml|Cetaphil|43.13|86.25
+baby-care|baby-grooming|Chicco Brush And Comb Pink|Chicco|40.25|40.25
+baby-care|baby-grooming|Gamar Baby Cleansing Pads - 60 Pcs|Gamar|21.85|21.85
+baby-care|baby-safety|Clippasafe Cabinet Slide Lock|Clippasafe|17.25|23.00
+baby-care|baby-safety|Clippasafe Waterproof Mattress Sheet - Cot Size|Clippasafe|17.11|40.25
+baby-care|baby-safety|Clippasafe Cupboard & Drawer Locks - 6 Pcs|Clippasafe|15.53|20.70
+vitamin-supplement|skin-vitamins|Jamieson Hair, Skin & Nails + Biotin - 60 Caplets|Jamieson|141.75|189.00
+vitamin-supplement|skin-vitamins|Activlab Collagen Beauty Shot 5000 mg|Activlab|19.99|19.99
+vitamin-supplement|skin-vitamins|Collagen Plus - 15 Sachets|Collagen Plus|181|258.75
+vitamin-supplement|skin-vitamins|Vitabiotics Perfectil Plus Skin 56 Tablets|Vitabiotics|76.49|84.99
+vitamin-supplement|skin-vitamins|Bioglan Collagen, Vitamin C & Biotin 20 Effervescent Tablets|Bioglan|80.5|80.5
+vitamin-supplement|skin-vitamins|Mason Natural Hair Skin & Nails 60 Capsules|Mason Natural|35.71|39.68
+vitamin-supplement|hair-vitamins|Sensilab Beauty Hair & Nails 60 Gummies|Sensilab|205.85|205.85
+vitamin-supplement|hair-vitamins|Priorin N Restorative For Hair 90 Capsules|Priorin|86.55|86.55
+vitamin-supplement|hair-vitamins|Vitabiotics Feroglobin B12 With Iron 30 Capsules|Vitabiotics|25.2|25.2
+vitamin-supplement|hair-vitamins|Vitabiotics Perfectil Multivitamin & Multimineral 30 Capsules|Vitabiotics|28.85|28.85
+vitamin-supplement|hair-vitamins|Priorin Extra Hair Growth Support With Biotin - 60 Capsules|Priorin|145.99|194.35
+vitamin-supplement|hair-vitamins|Cystine B6 + Zinc 120 Tablets|Cystine B6|115.4|115.4
+vitamin-supplement|multivitamins|Centrum Women Multivitamin 30 Tablets|Centrum|28.04|37.38
+vitamin-supplement|multivitamins|Nature's Way Alive Women's Complete Multivitamin 60 Gummies|Nature's Way|51.26|56.95
+vitamin-supplement|multivitamins|Centrum with Lutein Multivitamin 100 Tablets|Centrum|55|55
+vitamin-supplement|multivitamins|Vitabiotics Pregnacare Multivitamins For Women 30 Capsules|Vitabiotics|20.4|20.4
+vitamin-supplement|multivitamins|Centrum Energy Multivitamins with Ginseng & Ginkgo - 30 Tablets|Centrum|29|29
+vitamin-supplement|pregnancy-care|Vitabiotics Pregnacare Breastfeeding 56 Tabs + 28 Caps|Vitabiotics|103.5|115.00
+vitamin-supplement|pregnancy-care|Elevit Pronatal Women Multivitamin & Minerals 30 Tablets|Elevit|39|39
+vitamin-supplement|pregnancy-care|Vitabiotics Osteocare Calcium & Vitamin D 30 Tablets|Vitabiotics|21|21
+vitamin-supplement|pregnancy-care|Enzymedica Omega-3 Maximum Strength 2000 mg 60 Softgels|Enzymedica|92|102.22
+vitamin-supplement|manage-your-weight|Zahler Chapter Six Apple Cider Vinegar 60 Gummies|Zahler|66.24|73.60
+vitamin-supplement|manage-your-weight|Fatlos Orlistat 120 mg 80 Capsules|Fatlos|115.45|115.45
+vitamin-supplement|manage-your-weight|Holista Vitalite Apple Cider Vinegar - 90 Gummies|Holista|85.09|229.95
+vitamin-supplement|manage-your-weight|Nature's Truth Apple Cider Vinegar 600 mg - 75 Gummies|Nature's Truth|54.62|60.69
+vitamin-supplement|manage-your-weight|Now Foods Tri-Chromium + Cinnamon 500 mcg - 180 Capsules|NOW Foods|56.21|62.45
+vitamin-supplement|kids-health|Vidrop Vitamin D 2800 IU 15 ml Oral Drop|Vidrop|9.3|9.3
+vitamin-supplement|kids-health|Argivit Smart Syrup for Kids - 150 ml|Argivit|30|99.99
+vitamin-supplement|kids-health|Marnys Royal Junior + Vitamins 125 ml Liquid|Marnys|11.95|11.95
+vitamin-supplement|kids-health|Mothernest Multivitamins & Omega 3 60 Gummies|Mothernest|116.44|155.25
+vitamin-supplement|peaceful-sleep|21st Century Melatonin 3 mg 90 Tablets|21st Century|20.3|22.55
+vitamin-supplement|peaceful-sleep|21st Century Melatonin 10 mg Quick Dissolve 120 Tablets|21st Century|40.05|44.50
+vitamin-supplement|peaceful-sleep|Dream Water Melatonin 5 mg 74 ml Liquid|Dream Water|16|16
+vitamin-supplement|peaceful-sleep|Jamieson Melatonin 5 mg Fast Dissolving 30 Tablets|Jamieson|69|69
+vitamin-supplement|peaceful-sleep|ZzzQuil 30 Gummies|ZzzQuil|71.28|95.04
+vitamin-supplement|heart-health|Solgar Omega 3 Fish Oil Concentrate - 120 Softgels|Solgar|53.09|58.99
+vitamin-supplement|heart-health|Solgar Omega 3 950 mg 50 Softgels|Solgar|74.61|82.90
+vitamin-supplement|heart-health|Doctor's Best Omega 3 Fish Oil 2000 mg 120 Softgels|Doctor's Best|125.1|139.00
+vitamin-supplement|heart-health|Nordic Naturals Ultimate Omega-D3 - 60 Softgels|Nordic Naturals|114.62|127.36
+vitamin-supplement|heart-health|Holista High Potency Omega 3 1425 mg - 80 Softgels|Holista|146.25|194.99
+vitamin-supplement|diabetes-care|21st Century B-12 1000 mcg Prolonged Release 110 Tablets|21st Century|26.77|29.74
+vitamin-supplement|diabetes-care|Holland And Barrett Vitamin B12 1000 mcg 100 Tablets|Holland And Barrett|65.2|65.2
+vitamin-supplement|diabetes-care|Solgar Chromium Picolinate 500 mcg 60 Capsules|Solgar|27.89|30.99
+vitamin-supplement|diabetes-care|Solaray Chromium Picolinate 200 mcg - 100 Tablets|Solaray|49|49
+vitamin-supplement|diabetes-care|KAL Stress-B Vitamin B Complex & Magnesium Glycinate 60 Capsules|KAL|31.46|34.96
+skin-care|moisturizers|CeraVe Moisturising Cream for Dry to Very Dry Skin 50 ml|CeraVe|18.4|36.72
+skin-care|moisturizers|La Roche-Posay Cicaplast Baume B5+ 40 ml|La Roche-Posay|50.03|99.95
+skin-care|moisturizers|Dabur Herbolene Aloe Petroleum Jelly - 225 ml|Dabur|6.59|13.18
+skin-care|moisturizers|Bioderma Atoderm Ultra Nourishing Cream 500 ml|Bioderma|67.16|167.90
+skin-care|moisturizers|Mixa Ceramide Protect Cream 400 ml|Mixa|34.27|68.51
+skin-care|moisturizers|ISISPHARMA Teen Derm Hydra Soothing Moisturizer - 40 ml|Isispharma|58.65|117.30
+skin-care|sun-care|La Roche-Posay Anthelios UVMune 400 Invisible Fluid SPF 50+ 50 ml|La Roche-Posay|77.05|154.02
+skin-care|sun-care|Garnier SkinActive Super UV Invisible Serum Sunscreen 30 ml|Garnier|19.55|39.10
+skin-care|sun-care|Eucerin Oil Control Sunscreen Face Gel-Cream SPF50+ 50 ml|Eucerin|83.38|166.75
+skin-care|sun-care|La Roche-Posay Anthelios UVMune 400 Oil Control Gel Cream SPF 50+ 50 ml|La Roche-Posay|77.05|154.02
+skin-care|sun-care|Garnier Super UV Cooling Watergel Sunscreen 30 ml|Garnier|19.78|32.89
+skin-care|sun-care|La Roche-Posay Anthelios Anti-Shine Fresh Mist SPF 50+ 75 ml|La Roche-Posay|66.82|133.62
+skin-care|cleansers|CeraVe Foaming Cleanser for Normal to Oily Skin 236 ml|CeraVe|40.37|80.58
+skin-care|cleansers|La Roche-Posay Effaclar Purifying Foaming Gel 200 ml|La Roche-Posay|61.76|123.41
+skin-care|cleansers|Garnier SkinActive Fast Bright Vitamin C Face Wash 100 ml|Garnier|11.85|23.52
+skin-care|cleansers|Neutrogena Spot Controlling Face Wash Oil Free 200 ml|Neutrogena|23.58|47.15
+skin-care|cleansers|CeraVe Hydrating Cleanser for Normal to Dry Skin 236 ml|CeraVe|31.63|63.24
+skin-care|cleansers|La Roche-Posay Effaclar Purifying Foaming Gel 400 ml|La Roche-Posay|87.29|174.42
+skin-care|skin-brightening|ISISPHARMA Neotone Intensive Serum - 30 ml|Isispharma|149.5|299.00
+skin-care|skin-brightening|Garnier SkinActive Fast Bright Vitamin C Serum 30 ml|Garnier|25.19|50.34
+skin-care|skin-brightening|Mixa Niacinamide Bright Cream Jar 400 ml|Mixa|34.27|68.51
+skin-care|skin-brightening|Avalon Alpha Plus Cream 30 gm|Avalon|78.95|157.55
+skin-care|skin-brightening|La Roche-Posay Mela B3 Serum Dark Spot Corrector 30 ml|La Roche-Posay|132.71|265.20
+skin-care|masks|L'Oreal Revitalift Filler Glass Skin Hydrogel Mask 25 gm|L'Oreal|15.07|25.00
+skin-care|masks|Garnier SkinActive Hydra Bomb Mask Pomegranate 32 gm|Garnier|10.12|16.78
+skin-care|masks|Nivea Face Skin Refining Clear-Up Strips 6 Pcs|Nivea|15.76|31.50
+skin-care|masks|T Zone Charcoal & Bamboo Nose Pore Strips - 12 Pcs|T Zone|13.46|26.85
+skin-care|masks|Garnier SkinActive Fast Bright Mask - 28 g|Garnier|11.85|19.72
+skin-care|korean-beauty|Some By Mi Retinol Eye Cream 30 ml|Some By Mi|51.75|103.50
+skin-care|korean-beauty|Some By Mi 30 Days Miracle Starter Kit|Some By Mi|64.4|128.80
+skin-care|korean-beauty|Beauty Of Joseon Revive Serum Ginseng + Snail Mucin|Beauty Of Joseon|35.08|70.00
+skin-care|korean-beauty|SKIN1004 Centella Tone Brightening Capsule Ampoule 100 ml|SKIN1004|71.88|143.75
+skin-care|korean-beauty|Axis-Y Daily Purifying Treatment Toner 200 ml|Axis-Y|43.13|86.25
+skin-care|natural-beauty|Natura Siberica C-Berrica Glow Day Face Cream 50 ml|Natura Siberica|20|59.06
+skin-care|natural-beauty|Natura Siberica C-Berrica Antioxidant Face Serum 30 ml|Natura Siberica|20|41.04
+skin-care|natural-beauty|SO'BiO etic Organic Moisturizing Micellar Water 500 ml|SO'BiO etic|10.01|18.20
+men-care|blades-razors|Gillette Blue 3 Simple Disposable Razor 4 pcs|Gillette|23.25|23.25
+men-care|blades-razors|Gillette Blue 3 Comfort Disposable Razor 3 pcs|Gillette|27.03|27.03
+men-care|blades-razors|Dorco Pace2 Portable Blades Plus (5+2)|Dorco|16.76|16.76
+men-care|blades-razors|Bic Flex 5 Hybrid Men's Razor with Refills|Bic|32.37|43.16
+hair-care|conditioner|Ultra Doux Rice Water Conditioner 360 ml|Ultra Doux|12.95|23.00
+hair-care|conditioner|Ultra Doux Conditioner Avocado & Shea Butter 360 ml|Ultra Doux|12.95|23.46
+hair-care|conditioner|Elvive Hyaluron Moisture 72H Conditioner 200 ml|Elvive|19.95|31.34
+hair-care|conditioner|Dove Intensive Repair Conditioner 340 ml|Dove|16.95|27.95
+hair-care|conditioner|Elvive Fall Resist Conditioner 360 ml|Elvive|19.95|31.34
+hair-care|shampoo|Pantene Pro-V Daily Care 2-in-1 Shampoo 1 L|Pantene|22.95|41.95
+hair-care|shampoo|Elvive Hyaluron Pure Purifying Shampoo 600 ml|Elvive|19.95|35.65
+hair-care|shampoo|Elvive Collagen Lifter Shampoo 400 ml|Elvive|13.95|26.50
+hair-care|shampoo|Vichy Dercos Anti Hair Loss Shampoo with Aminexil 200 ml|Vichy|59|130.56
+hair-care|shampoo|Dove Amino Acid Intensive Repair Shampoo 590 ml|Dove|15.95|34.99
+hair-care|shampoo|Elvive Arginine Resist Shampoo 400 ml|Elvive|11.95|26.45
+hair-care|salon-hair-care|Kativa Brazilian Straightening Kit|Kativa|112.95|189.00
+hair-care|salon-hair-care|Il Salone Protein Straightening Kit With Argan Oil|Il Salone|138|276.05
+hair-care|salon-hair-care|Il Salone Multi Benefits 12 In 1 Leave In Hair Spray 200 ml|Il Salone|42.95|85.00
+hair-care|hair-styling|New Wave Boost It Volumizing Hair Mousse 200 ml|New Wave|26.31|35.09
+hair-care|hair-styling|Garnier Ultra Doux Grape Moisture Leave In Cream - 200 ml|Garnier|23.92|29.90
+hair-care|hair-styling|Elvive Hyaluron Moisture Night Hair Cream 200 ml|Elvive|22.95|31.34
+hair-care|hair-styling|Sunsilk Silky Smooth Styling Cream 275 ml|Sunsilk|11.95|17.94
+hair-care|hair-color|Garnier Color Naturals Creme Ashy Blonde 7.11|Garnier|11.95|27.03
+hair-care|hair-color|Garnier Color Naturals Creme Dark Ash Blonde 6.1|Garnier|11.95|27.03
+hair-care|hair-color|Garnier Color Naturals Creme Light Gray Blond 8.1|Garnier|11.95|27.03
+hair-care|hair-color|Olia Hair Color Intense Red Kit 6.6|Olia|26.94|37.66
+hair-care|oils-serums|Elvive Extraordinary Oil Extra Rich 100 ml|Elvive|49.94|66.13
+hair-care|oils-serums|Ultra Doux Rice Water Silk Drops Serum - 120 ml|Ultra Doux|31.95|50.03
+hair-care|oils-serums|Garnier Ultra Doux Hair Food Coconut & Macadamia 3-in-1 390 ml|Ultra Doux|30.95|43.82
+hair-care|oils-serums|Olaplex No.7 Bonding Oil 30 ml|Olaplex|119.99|185.00
+hair-care|hair-styling-devices|Philips Hair Straightener BHS375/03|Philips|99|138.29
+hair-care|hair-styling-devices|Remington Botanicals AC Hairdryer 2300W AC5860|Remington|78.26|207.16
+hair-care|hair-styling-devices|Rebune Hair Styler 1200W RE-2137|Rebune|98.95|217.35
+healthy-devices|diabetic-care|Accu-Chek Instant Blood Glucose Monitor|Accu-Chek|125|199.00
+healthy-devices|diabetic-care|Accu-Chek Instant 100 Strips|Accu-Chek|94.95|169.00
+healthy-devices|diabetic-care|OneTouch Verio Test Strips - 50 pcs|OneTouch|119|149.00
+healthy-devices|diabetic-care|FreeStyle Libre 2 Plus Sensor|FreeStyle|250|250
+healthy-devices|diabetic-care|OneTouch Verio Reflect Blood Glucose Monitor|OneTouch|98.95|199.00
+healthy-devices|heart-monitors|Yuwell Blood Pressure Monitor Arm YE660D|Yuwell|149|299.00
+healthy-devices|heart-monitors|Yuwell Blood Pressure Monitor Wrist YE8800AR|Yuwell|99|199.00
+healthy-devices|heart-monitors|Beurer Blood Pressure Monitor BM 54 Upper Arm|Beurer|175|199.00
+healthy-devices|thermometers|Yuwell YHT100 Ear Thermometer|Yuwell|139|180.00
+healthy-devices|thermometers|Medisana TM 750 Infrared Multifunctional Thermometer|Medisana|129|238.00
+healthy-devices|thermometers|Granzia Flexible Thermometer TMP 04|Granzia|27|39.00
+healthy-devices|thermometers|Braun ThermoScan 7 Ear Thermometer IRT6520|Braun|222|249.00
+healthy-devices|massagers|Renpho Head Scalp Massager 3 Modes|Renpho|180.6|301.00
+healthy-devices|massagers|Comfier Shiatsu Massage Pillow CF-6108G|Comfier|129|263.51
+healthy-devices|weighing-scales|Medisana Personal Scale Glass PS 435|Medisana|62.1|94.94
+healthy-devices|weighing-scales|Renpho Elis 2X Body Fat Scale|Renpho|132.3|189.00
+healthy-devices|weighing-scales|Renpho Elis 1 Smart Body Scale - White|Renpho|110|129.33
+healthy-devices|home-health-test|Fora 6 Total Cholesterol Test Strips 10 Pcs|Fora|150|150
+healthy-devices|home-health-test|First Step Pregnancy Test|First Step|20|20
+healthy-devices|home-health-test|Artron Ovulation Test 7 pcs|Artron|89.95|89.95
+healthy-devices|home-health-test|Flowflex Covid-19 Self Test 1 Pc|Flowflex|5.95|5.95
+healthy-devices|home-health-test|Berkeley Health H. Pylori Rapid Self Test 1 Pc|Berkeley Health|75|75
+healthy-devices|foot-spa|Profoot Moisturising Foot Socks 2 Pairs|Profoot|43.48|43.48
+healthy-devices|foot-spa|Beurer Foot Spa FB20|Beurer|159.79|213.05
+healthy-devices|foot-spa|Amope Pedi Perfect Electronic Foot File|Amope|45.94|91.88
+braces-supports-recovery|body-supports|Movera Wrist Thumb Brace M-4003|Movera|39|39
+braces-supports-recovery|body-supports|Movera Elastic Ankle Support M-9035|Movera|39|39
+braces-supports-recovery|body-supports|Movera Wrist Wrap One Size M-3001|Movera|39|39
+braces-supports-recovery|body-supports|Movera Knee Support XL M-7704|Movera|41|41
+braces-supports-recovery|hot-cold-compress|Channelmed Hot Water Bag With Cloth Cover|Channelmed|22|22
+braces-supports-recovery|hot-cold-compress|PIC Hot Water Bag Double Laminated With Cover|PIC|58.65|78.20
+braces-supports-recovery|hot-cold-compress|Dura Soft Hot Cold Therapy Pack SP7203|Dura Soft|46|46
+first-aid-wound-care|face-masks|Jamjoom Medical Face Mask Blue 50 Pcs|Jamjoom|15|15
+first-aid-wound-care|face-masks|Channelmed Disposable Surgical 3 Layer Mask 50 pcs|Channelmed|15|15
+first-aid-wound-care|face-masks|Jamjoom Kids Medical Face Mask 3-Ply 50 Pcs|Jamjoom|30|30
+healthy-nutrition|honey|Manuka Health MGO 115+ Manuka Honey 5 gm x12|Manuka Health|18.25|36.50
+healthy-nutrition|honey|Manuka Doctor Multifloral MGO 35+ - 250 gm|Manuka Doctor|31.07|62.15
+healthy-nutrition|honey|Manuka Health MGO 573+ UMF16 Manuka Honey - 250 gm|Manuka Health|118.71|237.42
+healthy-nutrition|sweeteners|Steviana Sweetener 50 Sachets|Steviana|16.5|16.5
+healthy-nutrition|sweeteners|Lakanto Monkfruit Sweetener Golden - 30 packets|Lakanto|21.43|23.81
+healthy-nutrition|sweeteners|Steviana Sweetener Sticks 25 Sticks|Steviana|9.95|9.95
+healthy-nutrition|diet-meal-replacement|Atkins Snack Lemon Bar - 5 pcs|Atkins|36.16|40.18
+healthy-nutrition|diet-meal-replacement|Atkins Ready To Drink Meal Shake Creamy Chocolate - 4 pcs|Atkins|61.87|68.74
+healthy-nutrition|tea-herbals|Wadi Alnahl Moringa Tea|Wadi Alnahl|18.4|18.4
+healthy-nutrition|tea-herbals|Wadi Alnahl Green Tea 30 Sachets|Wadi Alnahl|19.55|19.55
+healthy-nutrition|tea-herbals|Teekanne Calm And Relax 20 Tea Bags|Teekanne|30|30
+healthy-nutrition|tea-herbals|Wadi Alnahl Chamomile 30 Sachets|Wadi Alnahl|16.1|16.1
+lady-care|intimate-care|Femfresh Intimate Wash 250 ml|Femfresh|29.99|42.55
+lady-care|intimate-care|Femfresh Deo Spray 125 ml|Femfresh|15.99|21.85
+lady-care|intimate-care|Tahara Wipes Musk & Aloe Vera 20 Pcs|Tahara|13|18.40
+lady-care|intimate-care|Tahara Intimate Wash 100 ml|Tahara|14|20.70
+lady-care|intimate-care|Uriage Gyn-Phy Intimate Refreshing Gel 200 ml|Uriage|62.94|92.00
+seniors-care|adult-sanitary-care|Fine Care Pull Ups Large 14 Pcs|Fine|88.27|88.27
+seniors-care|adult-sanitary-care|Sanita Elegance Medical Underpads 90x60cm 20 Pcs|Sanita|35|35

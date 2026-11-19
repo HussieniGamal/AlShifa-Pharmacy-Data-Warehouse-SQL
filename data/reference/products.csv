@@ -1,0 +1,623 @@
+product_code,product_name,brand,department,category,sub_category,therapeutic_class,scientific_name,dosage_form,strength,is_rx,is_chronic,is_cold_chain,list_price_sar,source,is_private_label,unit_cost_sar,shelf_life_months
+P100001,Al Shifa Baby Wipes Sensitive 80 pcs,Al Shifa,Baby & Mother,Baby Care,Baby Wipes,,,,,0,0,0,9.5,Private label (invented),1,4.17,36
+P100002,Cetaphil Baby Wash & Shampoo With Organic Calendula - 400 ml,Cetaphil,Baby & Mother,Baby Care,Baby Grooming,,,,,0,0,0,86.25,Retail website reference,0,56.85,36
+P100003,Chicco Brush And Comb Pink,Chicco,Baby & Mother,Baby Care,Baby Grooming,,,,,0,0,0,40.25,Retail website reference,0,27.4,36
+P100004,Clippasafe Cabinet Slide Lock,Clippasafe,Baby & Mother,Baby Care,Baby Safety,,,,,0,0,0,23.0,Retail website reference,0,14.98,36
+P100005,Clippasafe Cupboard & Drawer Locks - 6 Pcs,Clippasafe,Baby & Mother,Baby Care,Baby Safety,,,,,0,0,0,20.7,Retail website reference,0,14.4,36
+P100006,Clippasafe Waterproof Mattress Sheet - Cot Size,Clippasafe,Baby & Mother,Baby Care,Baby Safety,,,,,0,0,0,40.25,Retail website reference,0,25.1,36
+P100007,Frida Baby Basics Kit,Frida Baby,Baby & Mother,Baby Care,Baby Grooming,,,,,0,0,0,228.85,Retail website reference,0,152.43,36
+P100008,Gamar Baby Cleansing Pads - 60 Pcs,Gamar,Baby & Mother,Baby Care,Baby Grooming,,,,,0,0,0,21.85,Retail website reference,0,15.05,36
+P100009,Johnson's Baby Cotton Buds 100 sticks,Johnson & Johnson,Baby & Mother,Baby Care,Baby Grooming,,,,,0,0,0,18.1,Retail website reference,0,11.79,36
+P100010,Optimal Brush And Comb Set Blue,Optimal,Baby & Mother,Baby Care,Baby Grooming,,,,,0,0,0,26.0,Retail website reference,0,17.55,36
+P100011,CeraVe Foaming Cleanser for Normal to Oily Skin 236 ml,CeraVe,Beauty & Skincare,Cleansers,Cleansers,,,,,0,0,0,80.58,Retail website reference,0,47.07,36
+P100012,CeraVe Hydrating Cleanser for Normal to Dry Skin 236 ml,CeraVe,Beauty & Skincare,Cleansers,Cleansers,,,,,0,0,0,63.24,Retail website reference,0,38.49,36
+P100013,Garnier SkinActive Fast Bright Vitamin C Face Wash 100 ml,Garnier,Beauty & Skincare,Cleansers,Cleansers,,,,,0,0,0,23.52,Retail website reference,0,13.38,36
+P100014,La Roche-Posay Effaclar Purifying Foaming Gel 200 ml,La Roche-Posay,Beauty & Skincare,Cleansers,Cleansers,,,,,0,0,0,123.41,Retail website reference,0,78.03,36
+P100015,La Roche-Posay Effaclar Purifying Foaming Gel 400 ml,La Roche-Posay,Beauty & Skincare,Cleansers,Cleansers,,,,,0,0,0,174.42,Retail website reference,0,112.53,36
+P100016,Neutrogena Spot Controlling Face Wash Oil Free 200 ml,Neutrogena,Beauty & Skincare,Cleansers,Cleansers,,,,,0,0,0,47.15,Retail website reference,0,29.81,36
+P100017,Axis-Y Daily Purifying Treatment Toner 200 ml,Axis-Y,Beauty & Skincare,Korean Beauty,Korean Beauty,,,,,0,0,0,86.25,Retail website reference,0,46.92,36
+P100018,Beauty Of Joseon Revive Serum Ginseng + Snail Mucin,Beauty Of Joseon,Beauty & Skincare,Korean Beauty,Korean Beauty,,,,,0,0,0,70.0,Retail website reference,0,42.08,36
+P100019,SKIN1004 Centella Tone Brightening Capsule Ampoule 100 ml,SKIN1004,Beauty & Skincare,Korean Beauty,Korean Beauty,,,,,0,0,0,143.75,Retail website reference,0,80.68,36
+P100020,Some By Mi 30 Days Miracle Starter Kit,Some By Mi,Beauty & Skincare,Korean Beauty,Korean Beauty,,,,,0,0,0,128.8,Retail website reference,0,77.54,36
+P100021,Some By Mi Retinol Eye Cream 30 ml,Some By Mi,Beauty & Skincare,Korean Beauty,Korean Beauty,,,,,0,0,0,103.5,Retail website reference,0,65.58,36
+P100022,Al Shifa Lip Balm SPF15,Al Shifa,Beauty & Skincare,Lip Care,Lip Balm,,,,,0,0,0,9.95,Private label (invented),1,4.14,36
+P100023,A-Derma Hand & Nail Cream Hydrating Hyaluronic Acid 50ml,A-Derma,Beauty & Skincare,Makeup,Nails,,,,,0,0,0,57.5,Retail website reference,0,35.16,36
+P100024,Accez 4-in-1 Nail Buffer,Accez,Beauty & Skincare,Makeup,Make Up Tools,,,,,0,0,0,16.1,Retail website reference,0,9.5,36
+P100025,Accez Eyelash Glue 5gm,Accez,Beauty & Skincare,Makeup,Make Up Tools,,,,,0,0,0,36.8,Retail website reference,0,23.46,36
+P100026,Accez False Eyelashes Akila,Accez,Beauty & Skincare,Makeup,Eyelashes,,,,,0,0,0,29.9,Retail website reference,0,18.35,36
+P100027,Accez Nail Polish Remover - 16 Wipes,Accez,Beauty & Skincare,Makeup,Nails,,,,,0,0,0,23.0,Retail website reference,0,13.69,36
+P100028,Accez Nail Polish Remover Acetone Free 100 ml,Accez,Beauty & Skincare,Makeup,Nails,,,,,0,0,0,12.95,Retail website reference,0,8.42,36
+P100029,Al Shifa Cotton Pads 100 pcs,Al Shifa,Beauty & Skincare,Makeup,Make Up Tools,,,,,0,0,0,9.95,Private label (invented),1,4.74,36
+P100030,Clevie Oval Organic Cotton Pads 50 pcs,Clevie,Beauty & Skincare,Makeup,Make Up Tools,,,,,0,0,0,16.1,Retail website reference,0,9.14,36
+P100031,Clevie Round Organic Cotton Pads 80 pcs,Clevie,Beauty & Skincare,Makeup,Make Up Tools,,,,,0,0,0,14.95,Retail website reference,0,8.53,36
+P100032,Cover Girl Exhibitionist Ultra-Matte Lipstick - 620 Risky Business,CoverGirl,Beauty & Skincare,Makeup,Lips,,,,,0,0,0,59.89,Retail website reference,0,38.11,36
+P100033,Cover Girl Exhibitionist Ultra-Matte Lipstick - 630 Gemini,CoverGirl,Beauty & Skincare,Makeup,Lips,,,,,0,0,0,59.89,Retail website reference,0,34.49,36
+P100034,Cover Girl Exhibitionist Ultra-Matte Lipstick - 678 Sweeten Up,CoverGirl,Beauty & Skincare,Makeup,Lips,,,,,0,0,0,59.89,Retail website reference,0,37.61,36
+P100035,CoverGirl Clean Fresh Skin Milk - 550 Light/Medium 30 ml,CoverGirl,Beauty & Skincare,Makeup,Face,,,,,0,0,0,60.33,Retail website reference,0,36.52,36
+P100036,CoverGirl Clean Matte Pressed Powder - 525 Buff Beige 10 gm,CoverGirl,Beauty & Skincare,Makeup,Face,,,,,0,0,0,38.77,Retail website reference,0,21.42,36
+P100037,CoverGirl TruBlend Skin Enhancer Contour Balm - 120 Sculpted,CoverGirl,Beauty & Skincare,Makeup,Face,,,,,0,0,0,66.52,Retail website reference,0,34.85,36
+P100038,CoverGirl TruBlend Skin Enhancer Highlighter Balm 320 - Rose Beam,CoverGirl,Beauty & Skincare,Makeup,Face,,,,,0,0,0,66.52,Retail website reference,0,42.16,36
+P100039,Essence I Love Extreme Crazy Volume Mascara - Black,Essence,Beauty & Skincare,Makeup,Eyes,,,,,0,0,0,13.0,Retail website reference,0,7.62,36
+P100040,Essence Lash Princess False Lash Effect Mascara - Black,Essence,Beauty & Skincare,Makeup,Eyes,,,,,0,0,0,16.0,Retail website reference,0,9.31,36
+P100041,Glitz Lashes Lazurde Natural Hair,Glitz,Beauty & Skincare,Makeup,Eyelashes,,,,,0,0,0,34.5,Retail website reference,0,21.22,36
+P100042,Makeup Revolution Renaissance Flick - Black,Makeup Revolution,Beauty & Skincare,Makeup,Eyes,,,,,0,0,0,62.0,Retail website reference,0,34.7,36
+P100043,NYX Epic Ink Liner - Black,NYX,Beauty & Skincare,Makeup,Eyes,,,,,0,0,0,49.29,Retail website reference,0,27.58,36
+P100044,Ousha Pre-Glued Eyelash Extension,Ousha,Beauty & Skincare,Makeup,Eyelashes,,,,,0,0,0,49.0,Retail website reference,0,30.93,36
+P100045,Revox B77 Just Glycolic Acid 7% Toner - 250 ml,Revox,Beauty & Skincare,Makeup,Face,,,,,0,0,0,71.3,Retail website reference,0,43.41,36
+P100046,Rimmel 60 Seconds Nail Polish 315 Queen Of Tarts - Red,Rimmel,Beauty & Skincare,Makeup,Nails,,,,,0,0,0,9.99,Retail website reference,0,6.19,36
+P100047,Rimmel Kohl Pen - 01 Black,Rimmel,Beauty & Skincare,Makeup,Eyes,,,,,0,0,0,36.0,Retail website reference,0,22.01,36
+P100048,Rimmel Kohl Pen - 05 Nude,Rimmel,Beauty & Skincare,Makeup,Eyes,,,,,0,0,0,36.0,Retail website reference,0,23.65,36
+P100049,Tocobo Lemon Sugar Scrub Lip Mask - 20 ml,Tocobo,Beauty & Skincare,Makeup,Lips,,,,,0,0,0,109.25,Retail website reference,0,64.86,36
+P100050,Tocobo Vita Glazed Lip Mask - 20 ml,Tocobo,Beauty & Skincare,Makeup,Lips,,,,,0,0,0,115.0,Retail website reference,0,65.45,36
+P100051,Garnier SkinActive Fast Bright Mask - 28 g,Garnier,Beauty & Skincare,Masks,Masks,,,,,0,0,0,19.72,Retail website reference,0,11.89,36
+P100052,Garnier SkinActive Hydra Bomb Mask Pomegranate 32 gm,Garnier,Beauty & Skincare,Masks,Masks,,,,,0,0,0,16.78,Retail website reference,0,10.27,36
+P100053,L'Oreal Revitalift Filler Glass Skin Hydrogel Mask 25 gm,L'Oreal,Beauty & Skincare,Masks,Masks,,,,,0,0,0,25.0,Retail website reference,0,16.42,36
+P100054,Nivea Face Skin Refining Clear-Up Strips 6 Pcs,Nivea,Beauty & Skincare,Masks,Masks,,,,,0,0,0,31.5,Retail website reference,0,18.93,36
+P100055,T Zone Charcoal & Bamboo Nose Pore Strips - 12 Pcs,T Zone,Beauty & Skincare,Masks,Masks,,,,,0,0,0,26.85,Retail website reference,0,16.18,36
+P100056,Bioderma Atoderm Ultra Nourishing Cream 500 ml,Bioderma,Beauty & Skincare,Moisturizers,Moisturizers,,,,,0,0,0,167.9,Retail website reference,0,105.84,36
+P100057,CeraVe Moisturising Cream for Dry to Very Dry Skin 50 ml,CeraVe,Beauty & Skincare,Moisturizers,Moisturizers,,,,,0,0,0,36.72,Retail website reference,0,19.93,36
+P100058,Dabur Herbolene Aloe Petroleum Jelly - 225 ml,Dabur,Beauty & Skincare,Moisturizers,Moisturizers,,,,,0,0,0,13.18,Retail website reference,0,8.52,36
+P100059,ISISPHARMA Teen Derm Hydra Soothing Moisturizer - 40 ml,Isispharma,Beauty & Skincare,Moisturizers,Moisturizers,,,,,0,0,0,117.3,Retail website reference,0,67.75,36
+P100060,La Roche-Posay Cicaplast Baume B5+ 40 ml,La Roche-Posay,Beauty & Skincare,Moisturizers,Moisturizers,,,,,0,0,0,99.95,Retail website reference,0,63.09,36
+P100061,Mixa Ceramide Protect Cream 400 ml,Mixa,Beauty & Skincare,Moisturizers,Moisturizers,,,,,0,0,0,68.51,Retail website reference,0,43.85,36
+P100062,Natura Siberica C-Berrica Antioxidant Face Serum 30 ml,Natura Siberica,Beauty & Skincare,Natural Beauty,Natural Beauty,,,,,0,0,0,41.04,Retail website reference,0,25.57,36
+P100063,Natura Siberica C-Berrica Glow Day Face Cream 50 ml,Natura Siberica,Beauty & Skincare,Natural Beauty,Natural Beauty,,,,,0,0,0,59.06,Retail website reference,0,35.68,36
+P100064,SO'BiO etic Organic Moisturizing Micellar Water 500 ml,SO'BiO etic,Beauty & Skincare,Natural Beauty,Natural Beauty,,,,,0,0,0,18.2,Retail website reference,0,10.96,36
+P100065,Avalon Alpha Plus Cream 30 gm,Avalon,Beauty & Skincare,Skin Brightening,Skin Brightening,,,,,0,0,0,157.55,Retail website reference,0,96.43,36
+P100066,Garnier SkinActive Fast Bright Vitamin C Serum 30 ml,Garnier,Beauty & Skincare,Skin Brightening,Skin Brightening,,,,,0,0,0,50.34,Retail website reference,0,28.11,36
+P100067,ISISPHARMA Neotone Intensive Serum - 30 ml,Isispharma,Beauty & Skincare,Skin Brightening,Skin Brightening,,,,,0,0,0,299.0,Retail website reference,0,188.17,36
+P100068,La Roche-Posay Mela B3 Serum Dark Spot Corrector 30 ml,La Roche-Posay,Beauty & Skincare,Skin Brightening,Skin Brightening,,,,,0,0,0,265.2,Retail website reference,0,166.04,36
+P100069,Mixa Niacinamide Bright Cream Jar 400 ml,Mixa,Beauty & Skincare,Skin Brightening,Skin Brightening,,,,,0,0,0,68.51,Retail website reference,0,39.42,36
+P100070,Al Shifa Sunscreen Lotion SPF50 100 ml,Al Shifa,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,39.95,Private label (invented),1,17.6,36
+P100071,Eucerin Oil Control Sunscreen Face Gel-Cream SPF50+ 50 ml,Eucerin,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,166.75,Retail website reference,0,107.01,36
+P100072,Garnier SkinActive Super UV Invisible Serum Sunscreen 30 ml,Garnier,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,39.1,Retail website reference,0,24.59,36
+P100073,Garnier Super UV Cooling Watergel Sunscreen 30 ml,Garnier,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,32.89,Retail website reference,0,18.36,36
+P100074,La Roche-Posay Anthelios Anti-Shine Fresh Mist SPF 50+ 75 ml,La Roche-Posay,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,133.62,Retail website reference,0,91.47,36
+P100075,La Roche-Posay Anthelios UVMune 400 Invisible Fluid SPF 50+ 50 ml,La Roche-Posay,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,154.02,Retail website reference,0,88.62,36
+P100076,La Roche-Posay Anthelios UVMune 400 Oil Control Gel Cream SPF 50+ 50 ml,La Roche-Posay,Beauty & Skincare,Sun Care,Sun Care,,,,,0,0,0,154.02,Retail website reference,0,94.05,36
+P100077,Boucheron Quatre Eau de Parfum for Women - 100 ml,Boucheron,Fragrances,Fragrances For Her,Fragrances For Her,,,,,0,0,0,506.0,Retail website reference,0,331.49,36
+P100078,Burberry London Eau de Parfum for Women - 100 ml,Burberry,Fragrances,Fragrances For Her,Fragrances For Her,,,,,0,0,0,520.0,Retail website reference,0,320.58,36
+P100079,Calvin Klein Eternity Moment Eau de Parfum for Women - 100 ml,Calvin Klein,Fragrances,Fragrances For Her,Fragrances For Her,,,,,0,0,0,425.01,Retail website reference,0,278.19,36
+P100080,Franck Olivier Eau de Parfum for Women - 50ml,Franck Olivier,Fragrances,Fragrances For Her,Fragrances For Her,,,,,0,0,0,111.0,Retail website reference,0,71.42,36
+P100081,Guerlain Insolence Women Eau de Toilette - 75 ml,Guerlain,Fragrances,Fragrances For Her,Fragrances For Her,,,,,0,0,0,582.0,Retail website reference,0,363.93,36
+P100082,Prada Paradoxe Intense Eau De Parfum for Women - 90 ml,Prada,Fragrances,Fragrances For Her,Fragrances For Her,,,,,0,0,0,851.0,Retail website reference,0,529.05,36
+P100083,Chopard Oud Malaki Eau de Parfum for Men - 80 ml,Chopard,Fragrances,Fragrances For Him,Fragrances For Him,,,,,0,0,0,665.0,Retail website reference,0,419.07,36
+P100084,Dolce & Gabbana The One Eau de Parfum for Men - 50 ml,Dolce & Gabbana,Fragrances,Fragrances For Him,Fragrances For Him,,,,,0,0,0,430.0,Retail website reference,0,256.35,36
+P100085,Givenchy Gentleman Reserve Privee EDP 100 ml,Givenchy,Fragrances,Fragrances For Him,Fragrances For Him,,,,,0,0,0,621.0,Retail website reference,0,392.26,36
+P100086,Gucci Guilty Pour Homme Elixir De Parfum for Men - 60 ml,Gucci,Fragrances,Fragrances For Him,Fragrances For Him,,,,,0,0,0,690.0,Retail website reference,0,457.69,36
+P100087,Jaguar Classic Blue Eau de Toilette for Men - 100 ml,Jaguar,Fragrances,Fragrances For Him,Fragrances For Him,,,,,0,0,0,379.99,Retail website reference,0,237.1,36
+P100088,Jean Paul Gaultier Le Male Intense Eau de Parfum for Men - 125 ml,Jean Paul Gaultier,Fragrances,Fragrances For Him,Fragrances For Him,,,,,0,0,0,730.25,Retail website reference,0,481.23,36
+P100089,Albdah Musk Oud Hair Mist for Women - 20 ml,Albdah,Fragrances,Hair Mist,Hair Mist,,,,,0,0,0,49.0,Retail website reference,0,30.06,36
+P100090,Albdah Silk Musk Hair Mist for Women - 20 ml,Albdah,Fragrances,Hair Mist,Hair Mist,,,,,0,0,0,49.0,Retail website reference,0,28.91,36
+P100091,Body Spa Hair Mist Almond - 30 ml,Body Spa,Fragrances,Hair Mist,Hair Mist,,,,,0,0,0,20.0,Retail website reference,0,13.44,36
+P100092,Body Spa Hair Mist Amber - 30 ml,Body Spa,Fragrances,Hair Mist,Hair Mist,,,,,0,0,0,20.0,Retail website reference,0,12.51,36
+P100093,Narciso Rodriguez Narciso Hair Mist for Women - 30 ml,Narciso Rodriguez,Fragrances,Hair Mist,Hair Mist,,,,,0,0,0,267.01,Retail website reference,0,171.83,36
+P100094,Franck Olivier Baby Boy Scented Water - 30 ml,Franck Olivier,Fragrances,Kids Fragrances,Kids Fragrances,,,,,0,0,0,75.0,Retail website reference,0,46.11,36
+P100095,Kidou Bambini E Mamme Jour Eau de Parfum for Kids - 100 ml,Bambini,Fragrances,Kids Fragrances,Kids Fragrances,,,,,0,0,0,74.75,Retail website reference,0,47.19,36
+P100096,Kidou Bambini E Mamme Poudree Eau de Parfum for Kids - 100 ml,Bambini,Fragrances,Kids Fragrances,Kids Fragrances,,,,,0,0,0,74.75,Retail website reference,0,45.47,36
+P100097,Alezz Oud Hersh Lahab Unisex Edp - 100 ml,Alezz Oud,Fragrances,Oriental Fragrances,Oriental Fragrances,,,,,0,0,0,400.0,Retail website reference,0,253.69,36
+P100098,Almajed For Oud Maamoul Dossary - 130 gm,Almajed For Oud,Fragrances,Oriental Fragrances,Oriental Fragrances,,,,,0,0,0,57.99,Retail website reference,0,34.02,36
+P100099,Almajed For Oud Secret Serious Perfume For Men - 100 ml,Almajed For Oud,Fragrances,Oriental Fragrances,Oriental Fragrances,,,,,0,0,0,250.0,Retail website reference,0,146.86,36
+P100100,Ibraq Tobacco Collection Jamaican Tobacco Unisex - 100 ml,Ibraq,Fragrances,Oriental Fragrances,Oriental Fragrances,,,,,0,0,0,358.0,Retail website reference,0,234.32,36
+P100101,Lattafa Pure Musk Eau de Parfum - 100 ml,Lattafa,Fragrances,Oriental Fragrances,Oriental Fragrances,,,,,0,0,0,65.0,Retail website reference,0,38.23,36
+P100102,Lattafa Pure Oudi Eau de Parfum For Unisex - 100 ml,Lattafa,Fragrances,Oriental Fragrances,Oriental Fragrances,,,,,0,0,0,79.01,Retail website reference,0,47.77,36
+P100103,Atkins Ready To Drink Meal Shake Creamy Chocolate - 4 pcs,Atkins,Health Food,Diet Meal Replacement,Diet Meal Replacement,,,,,0,0,0,68.74,Retail website reference,0,42.47,12
+P100104,Atkins Snack Lemon Bar - 5 pcs,Atkins,Health Food,Diet Meal Replacement,Diet Meal Replacement,,,,,0,0,0,40.18,Retail website reference,0,25.41,12
+P100105,Manuka Doctor Multifloral MGO 35+ - 250 gm,Manuka Doctor,Health Food,Honey,Honey,,,,,0,0,0,62.15,Retail website reference,0,40.19,12
+P100106,Manuka Health MGO 115+ Manuka Honey 5 gm x12,Manuka Health,Health Food,Honey,Honey,,,,,0,0,0,36.5,Retail website reference,0,23.29,12
+P100107,Manuka Health MGO 573+ UMF16 Manuka Honey - 250 gm,Manuka Health,Health Food,Honey,Honey,,,,,0,0,0,237.42,Retail website reference,0,147.24,12
+P100108,Lakanto Monkfruit Sweetener Golden - 30 packets,Lakanto,Health Food,Sweeteners,Sweeteners,,,,,0,0,0,23.81,Retail website reference,0,15.52,12
+P100109,Steviana Sweetener 50 Sachets,Steviana,Health Food,Sweeteners,Sweeteners,,,,,0,0,0,16.5,Retail website reference,0,11.11,12
+P100110,Steviana Sweetener Sticks 25 Sticks,Steviana,Health Food,Sweeteners,Sweeteners,,,,,0,0,0,9.95,Retail website reference,0,6.25,12
+P100111,Teekanne Calm And Relax 20 Tea Bags,Teekanne,Health Food,Tea Herbals,Tea Herbals,,,,,0,0,0,30.0,Retail website reference,0,19.17,12
+P100112,Wadi Alnahl Chamomile 30 Sachets,Wadi Alnahl,Health Food,Tea Herbals,Tea Herbals,,,,,0,0,0,16.1,Retail website reference,0,10.95,12
+P100113,Wadi Alnahl Green Tea 30 Sachets,Wadi Alnahl,Health Food,Tea Herbals,Tea Herbals,,,,,0,0,0,19.55,Retail website reference,0,12.89,12
+P100114,Wadi Alnahl Moringa Tea,Wadi Alnahl,Health Food,Tea Herbals,Tea Herbals,,,,,0,0,0,18.4,Retail website reference,0,11.74,12
+P100115,Accu-Chek Instant 100 Strips,Accu-Chek,Medical Devices,Diabetic Care,Diabetic Care,,,,,0,0,0,169.0,Retail website reference,0,110.43,60
+P100116,Accu-Chek Instant Blood Glucose Monitor,Accu-Chek,Medical Devices,Diabetic Care,Diabetic Care,,,,,0,0,0,199.0,Retail website reference,0,135.95,60
+P100117,FreeStyle Libre 2 Plus Sensor,FreeStyle,Medical Devices,Diabetic Care,Diabetic Care,,,,,0,0,0,250.0,Retail website reference,0,164.05,60
+P100118,OneTouch Verio Reflect Blood Glucose Monitor,OneTouch,Medical Devices,Diabetic Care,Diabetic Care,,,,,0,0,0,199.0,Retail website reference,0,131.88,60
+P100119,OneTouch Verio Test Strips - 50 pcs,OneTouch,Medical Devices,Diabetic Care,Diabetic Care,,,,,0,0,0,149.0,Retail website reference,0,107.27,60
+P100120,Al Shifa Adhesive Plasters 40 pcs,Al Shifa,Medical Devices,First Aid,Plasters,,,,,0,0,0,9.95,Private label (invented),1,4.32,60
+P100121,Al Shifa Elastic Bandage 10 cm,Al Shifa,Medical Devices,First Aid,Bandages,,,,,0,0,0,8.5,Private label (invented),1,3.86,60
+P100122,Al Shifa Medical Face Mask 50 pcs,Al Shifa,Medical Devices,First Aid,Face Masks,,,,,0,0,0,12.95,Private label (invented),1,6.9,60
+P100123,Channelmed Disposable Surgical 3 Layer Mask 50 pcs,Channelmed,Medical Devices,First Aid,Face Masks,,,,,0,0,0,15.0,Retail website reference,0,10.36,60
+P100124,Jamjoom Kids Medical Face Mask 3-Ply 50 Pcs,Jamjoom,Medical Devices,First Aid,Face Masks,,,,,0,0,0,30.0,Retail website reference,0,19.72,60
+P100125,Jamjoom Medical Face Mask Blue 50 Pcs,Jamjoom,Medical Devices,First Aid,Face Masks,,,,,0,0,0,15.0,Retail website reference,0,10.62,60
+P100126,Amope Pedi Perfect Electronic Foot File,Amope,Medical Devices,Foot Spa,Foot Spa,,,,,0,0,0,91.88,Retail website reference,0,63.31,60
+P100127,Beurer Foot Spa FB20,Beurer,Medical Devices,Foot Spa,Foot Spa,,,,,0,0,0,213.05,Retail website reference,0,151.03,60
+P100128,Profoot Moisturising Foot Socks 2 Pairs,Profoot,Medical Devices,Foot Spa,Foot Spa,,,,,0,0,0,43.48,Retail website reference,0,31.08,60
+P100129,Beurer Blood Pressure Monitor BM 54 Upper Arm,Beurer,Medical Devices,Heart Monitors,Heart Monitors,,,,,0,0,0,199.0,Retail website reference,0,137.23,60
+P100130,Yuwell Blood Pressure Monitor Arm YE660D,Yuwell,Medical Devices,Heart Monitors,Heart Monitors,,,,,0,0,0,299.0,Retail website reference,0,197.79,60
+P100131,Yuwell Blood Pressure Monitor Wrist YE8800AR,Yuwell,Medical Devices,Heart Monitors,Heart Monitors,,,,,0,0,0,199.0,Retail website reference,0,131.04,60
+P100132,Artron Ovulation Test 7 pcs,Artron,Medical Devices,Home Health Test,Home Health Test,,,,,0,0,0,89.95,Retail website reference,0,60.66,60
+P100133,Berkeley Health H. Pylori Rapid Self Test 1 Pc,Berkeley Health,Medical Devices,Home Health Test,Home Health Test,,,,,0,0,0,75.0,Retail website reference,0,49.4,60
+P100134,First Step Pregnancy Test,First Step,Medical Devices,Home Health Test,Home Health Test,,,,,0,0,0,20.0,Retail website reference,0,12.83,60
+P100135,Flowflex Covid-19 Self Test 1 Pc,Flowflex,Medical Devices,Home Health Test,Home Health Test,,,,,0,0,0,5.95,Retail website reference,0,4.44,60
+P100136,Fora 6 Total Cholesterol Test Strips 10 Pcs,Fora,Medical Devices,Home Health Test,Home Health Test,,,,,0,0,0,150.0,Retail website reference,0,107.51,60
+P100137,Comfier Shiatsu Massage Pillow CF-6108G,Comfier,Medical Devices,Massagers,Massagers,,,,,0,0,0,263.51,Retail website reference,0,172.3,60
+P100138,Renpho Head Scalp Massager 3 Modes,Renpho,Medical Devices,Massagers,Massagers,,,,,0,0,0,301.0,Retail website reference,0,215.34,60
+P100139,Fine Care Pull Ups Large 14 Pcs,Fine,Medical Devices,Seniors Care,Adult Sanitary Care,,,,,0,0,0,88.27,Retail website reference,0,60.11,60
+P100140,Sanita Elegance Medical Underpads 90x60cm 20 Pcs,Sanita,Medical Devices,Seniors Care,Adult Sanitary Care,,,,,0,0,0,35.0,Retail website reference,0,24.08,60
+P100141,Channelmed Hot Water Bag With Cloth Cover,Channelmed,Medical Devices,Supports & Recovery,Hot Cold Compress,,,,,0,0,0,22.0,Retail website reference,0,13.69,60
+P100142,Dura Soft Hot Cold Therapy Pack SP7203,Dura Soft,Medical Devices,Supports & Recovery,Hot Cold Compress,,,,,0,0,0,46.0,Retail website reference,0,31.15,60
+P100143,Movera Elastic Ankle Support M-9035,Movera,Medical Devices,Supports & Recovery,Body Supports,,,,,0,0,0,39.0,Retail website reference,0,26.56,60
+P100144,Movera Knee Support XL M-7704,Movera,Medical Devices,Supports & Recovery,Body Supports,,,,,0,0,0,41.0,Retail website reference,0,25.32,60
+P100145,Movera Wrist Thumb Brace M-4003,Movera,Medical Devices,Supports & Recovery,Body Supports,,,,,0,0,0,39.0,Retail website reference,0,24.64,60
+P100146,Movera Wrist Wrap One Size M-3001,Movera,Medical Devices,Supports & Recovery,Body Supports,,,,,0,0,0,39.0,Retail website reference,0,25.81,60
+P100147,PIC Hot Water Bag Double Laminated With Cover,PIC,Medical Devices,Supports & Recovery,Hot Cold Compress,,,,,0,0,0,78.2,Retail website reference,0,52.64,60
+P100148,Al Shifa Digital Thermometer,Al Shifa,Medical Devices,Thermometers,Thermometers,,,,,0,0,0,19.95,Private label (invented),1,8.57,60
+P100149,Braun ThermoScan 7 Ear Thermometer IRT6520,Braun,Medical Devices,Thermometers,Thermometers,,,,,0,0,0,249.0,Retail website reference,0,165.29,60
+P100150,Granzia Flexible Thermometer TMP 04,Granzia,Medical Devices,Thermometers,Thermometers,,,,,0,0,0,39.0,Retail website reference,0,25.63,60
+P100151,Medisana TM 750 Infrared Multifunctional Thermometer,Medisana,Medical Devices,Thermometers,Thermometers,,,,,0,0,0,238.0,Retail website reference,0,154.91,60
+P100152,Yuwell YHT100 Ear Thermometer,Yuwell,Medical Devices,Thermometers,Thermometers,,,,,0,0,0,180.0,Retail website reference,0,122.0,60
+P100153,Medisana Personal Scale Glass PS 435,Medisana,Medical Devices,Weighing Scales,Weighing Scales,,,,,0,0,0,94.94,Retail website reference,0,60.28,60
+P100154,Renpho Elis 1 Smart Body Scale - White,Renpho,Medical Devices,Weighing Scales,Weighing Scales,,,,,0,0,0,129.33,Retail website reference,0,85.74,60
+P100155,Renpho Elis 2X Body Fat Scale,Renpho,Medical Devices,Weighing Scales,Weighing Scales,,,,,0,0,0,189.0,Retail website reference,0,120.91,60
+P100156,Celer 0.5 - Syrup,Celer,OTC Medicines,Allergy,Desloratadine,Allergy,DESLORATADINE,Syrup,0.5,0,0,0,14.3,SFDA drugs list,0,9.64,18
+P100157,FEXOFIN 180 - Film-coated tablet,Fexofin,OTC Medicines,Allergy,Fexofenadine Hydrochloride,Allergy,FEXOFENADINE HYDROCHLORIDE,Film-coated tablet,180,0,0,0,32.5,SFDA drugs list,0,22.01,30
+P100158,LAYAL 5 - Tablet,Layal,OTC Medicines,Allergy,Levocetirizine Dihydrochloride,Allergy,LEVOCETIRIZINE DIHYDROCHLORIDE,Tablet,5,0,0,0,23.9,SFDA drugs list,0,16.68,30
+P100159,LORINE 10 - Tablet,Lorine,OTC Medicines,Allergy,Loratadine,Allergy,LORATADINE,Tablet,10,0,0,0,52.95,SFDA drugs list,0,39.52,30
+P100160,Levozal 0.5 - Syrup,Levozal,OTC Medicines,Allergy,Levocetirizine Dihydrochloride,Allergy,LEVOCETIRIZINE DIHYDROCHLORIDE,Syrup,0.5,0,0,0,28.5,SFDA drugs list,0,18.79,18
+P100161,TIDILOR 10 - Tablet,Tidilor,OTC Medicines,Allergy,Loratadine,Allergy,LORATADINE,Tablet,10,0,0,0,40.75,SFDA drugs list,0,28.38,30
+P100162,Xofen 120 - Film-coated tablet,Xofen,OTC Medicines,Allergy,Fexofenadine Hydrochloride,Allergy,FEXOFENADINE HYDROCHLORIDE,Film-coated tablet,120,0,0,0,36.1,SFDA drugs list,0,23.1,30
+P100163,Xofen 180 - Film-coated tablet,Xofen,OTC Medicines,Allergy,Fexofenadine Hydrochloride,Allergy,FEXOFENADINE HYDROCHLORIDE,Film-coated tablet,180,0,0,0,36.1,SFDA drugs list,0,25.96,30
+P100164,AMBOLAR 3 - Syrup,Ambolar,OTC Medicines,"Cold, Cough & Flu",Ambroxol Hydrochloride,"Cold, Cough & Flu",AMBROXOL HYDROCHLORIDE,Syrup,3,0,0,0,7.15,SFDA drugs list,0,5.18,18
+P100165,Al Shifa Saline Nasal Spray 30 ml,Al Shifa,OTC Medicines,"Cold, Cough & Flu",Saline,,,,,0,0,0,12.5,Private label (invented),1,4.99,30
+P100166,DECOZAL NASAL SPRAY 0.1 - Spray,Decozal,OTC Medicines,"Cold, Cough & Flu",Xylometazoline Hydrochloride,"Cold, Cough & Flu",XYLOMETAZOLINE HYDROCHLORIDE,Spray,0.1,0,0,0,7.55,SFDA drugs list,0,5.42,30
+P100167,"Decozal 0.05 - Nasal spray, solution",Decozal,OTC Medicines,"Cold, Cough & Flu",Xylometazoline Hydrochloride,"Cold, Cough & Flu",XYLOMETAZOLINE HYDROCHLORIDE,"Nasal spray, solution",0.05,0,0,0,8.25,SFDA drugs list,0,5.8,30
+P100168,Decozal 1 - Nasal spray,Decozal,OTC Medicines,"Cold, Cough & Flu",Xylometazoline Hydrochloride,"Cold, Cough & Flu",XYLOMETAZOLINE HYDROCHLORIDE,Nasal spray,1,0,0,0,11.3,SFDA drugs list,0,7.61,30
+P100169,EZOLVIN 8MGTAB 8 - Tablet,Ezolvin,OTC Medicines,"Cold, Cough & Flu",Bromhexine,"Cold, Cough & Flu",BROMHEXINE,Tablet,8,0,0,0,8.85,SFDA drugs list,0,6.2,30
+P100170,"Fedlora 12,1 - Syrup",Fedlora,OTC Medicines,"Cold, Cough & Flu",Pseudoephedrine Hydrochloride,"Cold, Cough & Flu","PSEUDOEPHEDRINE HYDROCHLORIDE,LORATADINE",Syrup,"12,1",0,0,0,17.35,SFDA drugs list,0,12.0,18
+P100171,GUAPHAN 20 - Syrup,Guaphan,OTC Medicines,"Cold, Cough & Flu",Guaifenesin,"Cold, Cough & Flu",GUAIFENESIN,Syrup,20,0,0,0,6.5,SFDA drugs list,0,4.64,18
+P100172,HISTOP TAB 4MG 4 - Tablet,Histop,OTC Medicines,"Cold, Cough & Flu",Chlorpheniramine Maleate,"Cold, Cough & Flu",CHLORPHENIRAMINE MALEATE,Tablet,4,0,0,0,6.9,SFDA drugs list,0,4.94,30
+P100173,KAFOSED SYRUP 15MG-5ML 3 - Syrup,Kafosed,OTC Medicines,"Cold, Cough & Flu",Dextromethorphan,"Cold, Cough & Flu",DEXTROMETHORPHAN,Syrup,3,0,0,0,10.7,SFDA drugs list,0,7.98,18
+P100174,MUCUM 15MG-5ML SYRUP 3 - Syrup,Mucum,OTC Medicines,"Cold, Cough & Flu",Ambroxol Hydrochloride,"Cold, Cough & Flu",AMBROXOL HYDROCHLORIDE,Syrup,3,0,0,0,7.15,SFDA drugs list,0,4.78,18
+P100175,NASIVIN DROPS 0.05% 0.05 - Nasal drops,Nasivin,OTC Medicines,"Cold, Cough & Flu",Oxymetazoline,"Cold, Cough & Flu",OXYMETAZOLINE,Nasal drops,0.05,0,0,0,5.35,SFDA drugs list,0,3.73,30
+P100176,PECTAL 100MG/5ML SYRUP 20 - Syrup,Pectal,OTC Medicines,"Cold, Cough & Flu",Guaifenesin,"Cold, Cough & Flu",GUAIFENESIN,Syrup,20,0,0,0,7.8,SFDA drugs list,0,5.69,18
+P100177,RIAPHAN 15 mg per 5 ml 3 - Syrup,Riaphan,OTC Medicines,"Cold, Cough & Flu",Dextromethorphan,"Cold, Cough & Flu",DEXTROMETHORPHAN,Syrup,3,0,0,0,9.6,SFDA drugs list,0,6.73,18
+P100178,RIAXINE 0.8 - Oral solution,Riaxine,OTC Medicines,"Cold, Cough & Flu",Bromhexine,"Cold, Cough & Flu",BROMHEXINE,Oral solution,0.8,0,0,0,9.0,SFDA drugs list,0,6.52,30
+P100179,"RINOFED 6,0.25 - Syrup",Rinofed,OTC Medicines,"Cold, Cough & Flu",Pseudoephedrine Hydrochloride,"Cold, Cough & Flu","PSEUDOEPHEDRINE HYDROCHLORIDE,TRIPROLIDINE",Syrup,"6,0.25",0,0,0,3.85,SFDA drugs list,0,2.72,18
+P100180,ROMIN 15 MG-5 ML SYRUP 3 - Syrup,Romin,OTC Medicines,"Cold, Cough & Flu",Dextromethorphan,"Cold, Cough & Flu",DEXTROMETHORPHAN,Syrup,3,0,0,0,11.5,SFDA drugs list,0,8.01,18
+P100181,"Rhinathiol Promethazine 0.5,2 - Syrup",Rhinathiol,OTC Medicines,"Cold, Cough & Flu",Promethazine,"Cold, Cough & Flu","PROMETHAZINE,CARBOCISTEINE",Syrup,"0.5,2",0,0,0,10.1,SFDA drugs list,0,7.44,18
+P100182,"SEDOFAN 60,2.5 - Tablet",Sedofan,OTC Medicines,"Cold, Cough & Flu",Pseudoephedrine Hydrochloride,"Cold, Cough & Flu","PSEUDOEPHEDRINE HYDROCHLORIDE,TRIPROLIDINE",Tablet,"60,2.5",0,0,0,8.0,SFDA drugs list,0,5.56,30
+P100183,VICKS SINEX NASAL SPRAY. 0.05 - Spray,Vicks,OTC Medicines,"Cold, Cough & Flu",Oxymetazoline,"Cold, Cough & Flu",OXYMETAZOLINE,Spray,0.05,0,0,0,3.6,SFDA drugs list,0,2.51,30
+P100184,Zistan SYRUP 0.4 - Syrup,Zistan,OTC Medicines,"Cold, Cough & Flu",Chlorpheniramine Maleate,"Cold, Cough & Flu",CHLORPHENIRAMINE MALEATE,Syrup,0.4,0,0,0,5.4,SFDA drugs list,0,4.19,18
+P100185,ACNEZOYL 5% GEL 5 - Gel,Acnezoyl,OTC Medicines,Dermatology,Benzoyl Peroxide,Dermatology,BENZOYL PEROXIDE,Gel,5,0,0,0,8.3,SFDA drugs list,0,6.21,30
+P100186,BENZAC AC 2.5% GEL 2.5 - Gel,Benzac,OTC Medicines,Dermatology,Benzoyl Peroxide,Dermatology,BENZOYL PEROXIDE,Gel,2.5,0,0,0,12.45,SFDA drugs list,0,9.03,30
+P100187,BENZAC AC 5% GEL 5 - Gel,Benzac,OTC Medicines,Dermatology,Benzoyl Peroxide,Dermatology,BENZOYL PEROXIDE,Gel,5,0,0,0,17.45,SFDA drugs list,0,12.34,30
+P100188,CALMAR 10 - Cream,Calmar,OTC Medicines,Dermatology,Zinc Oxide,Dermatology,ZINC OXIDE,Cream,10,0,0,0,20.85,SFDA drugs list,0,14.76,30
+P100189,CLOTREX 1 - Oral drops,Clotrex,OTC Medicines,Dermatology,Clotrimazole,Dermatology,CLOTRIMAZOLE,Oral drops,1,0,0,0,10.8,SFDA drugs list,0,7.38,30
+P100190,CONAZOL 2% CREAM 2 - Cream,Conazol,OTC Medicines,Dermatology,Miconazole Nitrate,Dermatology,MICONAZOLE NITRATE,Cream,2,0,0,0,6.4,SFDA drugs list,0,4.17,30
+P100191,DROF 2% SHAMPOO 2 - Shampoo,Drof,OTC Medicines,Dermatology,Ketoconazole,Dermatology,KETOCONAZOLE,Shampoo,2,0,0,0,15.25,SFDA drugs list,0,10.85,30
+P100192,FUNGO 1% CREAM 1 - Cream,Fungo,OTC Medicines,Dermatology,Clotrimazole,Dermatology,CLOTRIMAZOLE,Cream,1,0,0,0,13.7,SFDA drugs list,0,9.61,30
+P100193,LAMIFEN 1% CREAM 1 - Cream,Lamifen,OTC Medicines,Dermatology,Terbinafine,Dermatology,TERBINAFINE,Cream,1,0,0,0,19.5,SFDA drugs list,0,13.85,30
+P100194,LAMISIL 1% CREAM 1 - Cream,Lamisil,OTC Medicines,Dermatology,Terbinafine,Dermatology,TERBINAFINE,Cream,1,0,0,0,23.15,SFDA drugs list,0,16.98,30
+P100195,LAMISIL 1% SPRAY 1 - Spray,Lamisil,OTC Medicines,Dermatology,Terbinafine,Dermatology,TERBINAFINE,Spray,1,0,0,0,43.2,SFDA drugs list,0,30.15,30
+P100196,MICONAZ 2% CREAM 2 - Cream,Miconaz,OTC Medicines,Dermatology,Miconazole Nitrate,Dermatology,MICONAZOLE NITRATE,Cream,2,0,0,0,5.75,SFDA drugs list,0,3.94,30
+P100197,MYCOLESS CREAM 2 - Cream,Mycoless,OTC Medicines,Dermatology,Miconazole Nitrate,Dermatology,MICONAZOLE NITRATE,Cream,2,0,0,0,5.75,SFDA drugs list,0,4.13,30
+P100198,NIZORAL CREAM 2% 2 - Cream,Nizoral,OTC Medicines,Dermatology,Ketoconazole,Dermatology,KETOCONAZOLE,Cream,2,0,0,0,19.35,SFDA drugs list,0,13.58,30
+P100199,OPIZOLE 1% CREAM 1 - Cream,Opizole,OTC Medicines,Dermatology,Clotrimazole,Dermatology,CLOTRIMAZOLE,Cream,1,0,0,0,5.9,SFDA drugs list,0,4.23,30
+P100200,VAVO 2% SHAMPOO 2 - Shampoo,Vavo,OTC Medicines,Dermatology,Ketoconazole,Dermatology,KETOCONAZOLE,Shampoo,2,0,0,0,26.5,SFDA drugs list,0,17.86,30
+P100201,DulcoLax 5MG ENTERIC COATED TABLET 5 - Coated tablet,Dulcolax,OTC Medicines,Digestive Health,Bisacodyl,Digestive Health,BISACODYL,Coated tablet,5,0,0,0,14.55,SFDA drugs list,0,10.17,30
+P100202,EPIMAG 2.125 - Effervescent powder,Epimag,OTC Medicines,Digestive Health,Magnesium Citrate,Digestive Health,MAGNESIUM CITRATE,Effervescent powder,2.125,0,0,0,12.4,SFDA drugs list,0,8.68,30
+P100203,"GAVISCON ADVANCE PEPPERMINT LIQUID SACHET 500,100 - Oral suspension",Gaviscon,OTC Medicines,Digestive Health,Sodium Alginate,Digestive Health,"SODIUM ALGINATE,POTASSIUM BICARBONATE",Oral suspension,"500,100",0,0,0,30.4,SFDA drugs list,0,22.06,30
+P100204,"GAVISCON PEPPERMINT LIQUID 500,267,160 - Oral suspension",Gaviscon,OTC Medicines,Digestive Health,Sodium Alginate,Digestive Health,"SODIUM ALGINATE,SODIUM BICARBONATE,CALCIUM CARBONATE",Oral suspension,"500,267,160",0,0,0,15.2,SFDA drugs list,0,10.2,30
+P100205,"Gaviscon Infant 87.5,225 - Powder for oral suspension",Gaviscon,OTC Medicines,Digestive Health,Magnesium Alginate,Digestive Health,"MAGNESIUM ALGINATE,SODIUM ALGINATE",Powder for oral suspension,"87.5,225",0,0,0,14.5,SFDA drugs list,0,10.04,18
+P100206,IMODIUM 2MG CAPSULE 2 - Capsule,Imodium,OTC Medicines,Digestive Health,Loperamide,Digestive Health,LOPERAMIDE,Capsule,2,0,0,0,6.45,SFDA drugs list,0,4.48,30
+P100207,IMODIUM INSTANTS 2MG ORODESPERSIBLE TABLET 2 - Tablet,Imodium,OTC Medicines,Digestive Health,Loperamide,Digestive Health,LOPERAMIDE,Tablet,2,0,0,0,12.4,SFDA drugs list,0,8.99,30
+P100208,"Imodium Plus Caplets 125,2 - Tablet",Imodium,OTC Medicines,Digestive Health,Simethicone,Digestive Health,"SIMETHICONE,LOPERAMIDE",Tablet,"125,2",0,0,0,19.3,SFDA drugs list,0,12.21,30
+P100209,LACTULOSE syrup 0.65 - Syrup,Lactulose,OTC Medicines,Digestive Health,Lactulose,Digestive Health,LACTULOSE,Syrup,0.65,0,0,0,17.0,SFDA drugs list,0,11.54,18
+P100210,LAXILOSE SYRUP 67 - Syrup,Laxilose,OTC Medicines,Digestive Health,Lactulose,Digestive Health,LACTULOSE,Syrup,67,0,0,0,20.75,SFDA drugs list,0,14.2,18
+P100211,LAXOCODYL 10MG SUPP 10 - Suppository,Laxocodyl,OTC Medicines,Digestive Health,Bisacodyl,Digestive Health,BISACODYL,Suppository,10,0,0,0,7.55,SFDA drugs list,0,5.3,30
+P100212,LAXOCODYL 5MG SUPP 5 - Suppository,Laxocodyl,OTC Medicines,Digestive Health,Bisacodyl,Digestive Health,BISACODYL,Suppository,5,0,0,0,7.55,SFDA drugs list,0,5.52,30
+P100213,LAXOLAC SYRUP 0.65 - Syrup,Laxolac,OTC Medicines,Digestive Health,Lactulose,Digestive Health,LACTULOSE,Syrup,0.65,0,0,0,8.3,SFDA drugs list,0,5.86,18
+P100214,"MOXAL Tablet 405,100 - Chewable tablet",Moxal,OTC Medicines,Digestive Health,Aluminum Hydroxide,Digestive Health,"ALUMINUM HYDROXIDE,MAGNESIUM HYDROXIDE",Chewable tablet,"405,100",0,0,0,6.65,SFDA drugs list,0,4.77,30
+P100215,"Meteospasmyl 60,300 - Capsule, soft",Meteospasmyl,OTC Medicines,Digestive Health,Alverine Citrate,Digestive Health,"ALVERINE CITRATE,SIMETICONE","Capsule, soft","60,300",0,0,0,35.6,SFDA drugs list,0,26.05,30
+P100216,NOSPASM 10 MG TAB 10 - Tablet,Nospasm,OTC Medicines,Digestive Health,Hyoscine Butylbromide,Digestive Health,HYOSCINE BUTYLBROMIDE,Tablet,10,0,0,0,16.25,SFDA drugs list,0,11.68,30
+P100217,"RIALOX 45,40 - Effervescent granules",Rialox,OTC Medicines,Digestive Health,Aluminum Hydroxide,Digestive Health,"ALUMINUM HYDROXIDE,MAGNESIUM HYDROXIDE",Effervescent granules,"45,40",0,0,0,7.4,SFDA drugs list,0,4.84,30
+P100218,SPASMOPAN 10MG TAB. 10 - Tablet,Spasmopan,OTC Medicines,Digestive Health,Hyoscine Butylbromide,Digestive Health,HYOSCINE BUTYLBROMIDE,Tablet,10,0,0,0,7.4,SFDA drugs list,0,5.13,30
+P100219,"OCULAC 0.5,0.3 - Eye drops",Oculac,OTC Medicines,Eye Care,Sodium Chloride,Eye Care,"SODIUM CHLORIDE,HYPROMELLOSE",Eye drops,"0.5,0.3",0,0,0,10.7,SFDA drugs list,0,7.49,30
+P100220,"Olohistex 1 - Eye drops, solution",Olohistex,OTC Medicines,Eye Care,Olopatadine,Eye Care,OLOPATADINE,"Eye drops, solution",1,0,0,0,15.4,SFDA drugs list,0,10.69,30
+P100221,"Olopat 0.2 - Eye drops, solution",Olopat,OTC Medicines,Eye Care,Olopatadine,Eye Care,OLOPATADINE,"Eye drops, solution",0.2,0,0,0,37.9,SFDA drugs list,0,27.21,30
+P100222,"iPAT 0.1 - Eye drops, solution",Ipat,OTC Medicines,Eye Care,Olopatadine,Eye Care,OLOPATADINE,"Eye drops, solution",0.1,0,0,0,19.9,SFDA drugs list,0,14.12,30
+P100223,ADVIL 200MG TAB 200 - Tablet,Advil,OTC Medicines,Pain & Fever,Ibuprofen,Pain & Fever,IBUPROFEN,Tablet,200,0,0,0,11.65,SFDA drugs list,0,8.31,30
+P100224,ASPIRIN ADULT TAB 300MG 300 - Tablet,Aspirin,OTC Medicines,Pain & Fever,Acetylsalicylic Acid,Pain & Fever,ACETYLSALICYLIC ACID,Tablet,300,0,0,0,3.5,SFDA drugs list,0,2.58,30
+P100225,Cetal 24 - Syrup,Cetal,OTC Medicines,Pain & Fever,Paracetamol,Pain & Fever,PARACETAMOL,Syrup,24,0,0,0,3.5,SFDA drugs list,0,2.45,18
+P100226,DISPRIN 81 - Enteric-coated tablet,Disprin,OTC Medicines,Pain & Fever,Acetylsalicylic Acid,Pain & Fever,ACETYLSALICYLIC ACID,Enteric-coated tablet,81,0,0,0,25.0,SFDA drugs list,0,18.88,30
+P100227,FENAM 250MG TAB 250 - Film-coated tablet,Fenam,OTC Medicines,Pain & Fever,Mefenamic Acid,Pain & Fever,MEFENAMIC ACID,Film-coated tablet,250,0,0,0,5.85,SFDA drugs list,0,4.33,30
+P100228,FENAM 50MG-5ML SYRUP 10 - Syrup,Fenam,OTC Medicines,Pain & Fever,Mefenamic Acid,Pain & Fever,MEFENAMIC ACID,Syrup,10,0,0,0,12.6,SFDA drugs list,0,8.83,18
+P100229,FENAMIC 250 MG CAP 250 - Capsule,Fenamic,OTC Medicines,Pain & Fever,Mefenamic Acid,Pain & Fever,MEFENAMIC ACID,Capsule,250,0,0,0,5.65,SFDA drugs list,0,3.84,30
+P100230,Fevadol 500 - Tablet,Fevadol,OTC Medicines,Pain & Fever,Paracetamol,Pain & Fever,PARACETAMOL,Tablet,500,0,0,0,4.2,SFDA drugs list,0,2.9,30
+P100231,Jusprin 81 - Enteric-coated tablet,Jusprin,OTC Medicines,Pain & Fever,Acetylsalicylic Acid,Pain & Fever,ACETYLSALICYLIC ACID,Enteric-coated tablet,81,0,0,0,22.5,SFDA drugs list,0,15.91,30
+P100232,Mafo 20 - Syrup,Mafo,OTC Medicines,Pain & Fever,Ibuprofen,Pain & Fever,IBUPROFEN,Syrup,20,0,0,0,6.9,SFDA drugs list,0,4.89,18
+P100233,NAPROTEX 500 mg tablet 500 - Tablet,Naprotex,OTC Medicines,Pain & Fever,Naproxen,Pain & Fever,NAPROXEN,Tablet,500,0,0,0,18.9,SFDA drugs list,0,12.95,30
+P100234,NAPROX 250MG TAB 250 - Tablet,Naprox,OTC Medicines,Pain & Fever,Naproxen,Pain & Fever,NAPROXEN,Tablet,250,0,0,0,19.9,SFDA drugs list,0,14.22,30
+P100235,NAPROX D.S 500MG TAB 500 - Tablet,Naprox,OTC Medicines,Pain & Fever,Naproxen,Pain & Fever,NAPROXEN,Tablet,500,0,0,0,17.2,SFDA drugs list,0,12.36,30
+P100236,OLFEN 1 - Gel,Olfen,OTC Medicines,Pain & Fever,Diclofenac Sodium,Pain & Fever,DICLOFENAC SODIUM,Gel,1,0,0,0,13.85,SFDA drugs list,0,10.11,30
+P100237,PROFINAL 5% GEL 5 - Gel,Profinal,OTC Medicines,Pain & Fever,Ibuprofen,Pain & Fever,IBUPROFEN,Gel,5,0,0,0,6.95,SFDA drugs list,0,5.05,30
+P100238,ROFENAC GEL 1% 1 - Gel,Rofenac,OTC Medicines,Pain & Fever,Diclofenac Sodium,Pain & Fever,DICLOFENAC SODIUM,Gel,1,0,0,0,8.7,SFDA drugs list,0,5.74,30
+P100239,RUMAFEN 1 - Gel,Rumafen,OTC Medicines,Pain & Fever,Diclofenac Sodium,Pain & Fever,DICLOFENAC SODIUM,Gel,1,0,0,0,13.45,SFDA drugs list,0,9.39,30
+P100240,Lexcotinz 2 - Lozenge,Lexcotinz,OTC Medicines,Smoking Cessation,Nicotine,Smoking Cessation,NICOTINE,Lozenge,2,0,0,0,16.3,SFDA drugs list,0,12.1,30
+P100241,NICOTINELL TTS-10 17.5 - Transdermal patch,Nicotinell,OTC Medicines,Smoking Cessation,Nicotine,Smoking Cessation,NICOTINE,Transdermal patch,17.5,0,0,0,66.1,SFDA drugs list,0,44.87,30
+P100242,NICOTINELL TTS-20 35 - Transdermal patch,Nicotinell,OTC Medicines,Smoking Cessation,Nicotine,Smoking Cessation,NICOTINE,Transdermal patch,35,0,0,0,66.1,SFDA drugs list,0,44.58,30
+P100243,Femfresh Deo Spray 125 ml,Femfresh,Personal Care,Feminine Care,Intimate Care,,,,,0,0,0,21.85,Retail website reference,0,12.73,36
+P100244,Femfresh Intimate Wash 250 ml,Femfresh,Personal Care,Feminine Care,Intimate Care,,,,,0,0,0,42.55,Retail website reference,0,27.62,36
+P100245,Tahara Intimate Wash 100 ml,Tahara,Personal Care,Feminine Care,Intimate Care,,,,,0,0,0,20.7,Retail website reference,0,12.23,36
+P100246,Tahara Wipes Musk & Aloe Vera 20 Pcs,Tahara,Personal Care,Feminine Care,Intimate Care,,,,,0,0,0,18.4,Retail website reference,0,11.07,36
+P100247,Uriage Gyn-Phy Intimate Refreshing Gel 200 ml,Uriage,Personal Care,Feminine Care,Intimate Care,,,,,0,0,0,92.0,Retail website reference,0,59.89,36
+P100248,Dove Amino Acid Intensive Repair Shampoo 590 ml,Dove,Personal Care,Hair Care,Shampoo,,,,,0,0,0,34.99,Retail website reference,0,21.0,36
+P100249,Dove Intensive Repair Conditioner 340 ml,Dove,Personal Care,Hair Care,Conditioner,,,,,0,0,0,27.95,Retail website reference,0,16.92,36
+P100250,Elvive Arginine Resist Shampoo 400 ml,Elvive,Personal Care,Hair Care,Shampoo,,,,,0,0,0,26.45,Retail website reference,0,16.95,36
+P100251,Elvive Collagen Lifter Shampoo 400 ml,Elvive,Personal Care,Hair Care,Shampoo,,,,,0,0,0,26.5,Retail website reference,0,16.34,36
+P100252,Elvive Extraordinary Oil Extra Rich 100 ml,Elvive,Personal Care,Hair Care,Oils Serums,,,,,0,0,0,66.13,Retail website reference,0,40.21,36
+P100253,Elvive Fall Resist Conditioner 360 ml,Elvive,Personal Care,Hair Care,Conditioner,,,,,0,0,0,31.34,Retail website reference,0,19.49,36
+P100254,Elvive Hyaluron Moisture 72H Conditioner 200 ml,Elvive,Personal Care,Hair Care,Conditioner,,,,,0,0,0,31.34,Retail website reference,0,18.57,36
+P100255,Elvive Hyaluron Moisture Night Hair Cream 200 ml,Elvive,Personal Care,Hair Care,Hair Styling,,,,,0,0,0,31.34,Retail website reference,0,18.72,36
+P100256,Elvive Hyaluron Pure Purifying Shampoo 600 ml,Elvive,Personal Care,Hair Care,Shampoo,,,,,0,0,0,35.65,Retail website reference,0,21.64,36
+P100257,Garnier Color Naturals Creme Ashy Blonde 7.11,Garnier,Personal Care,Hair Care,Hair Color,,,,,0,0,0,27.03,Retail website reference,0,16.35,36
+P100258,Garnier Color Naturals Creme Dark Ash Blonde 6.1,Garnier,Personal Care,Hair Care,Hair Color,,,,,0,0,0,27.03,Retail website reference,0,16.56,36
+P100259,Garnier Color Naturals Creme Light Gray Blond 8.1,Garnier,Personal Care,Hair Care,Hair Color,,,,,0,0,0,27.03,Retail website reference,0,16.52,36
+P100260,Garnier Ultra Doux Grape Moisture Leave In Cream - 200 ml,Garnier,Personal Care,Hair Care,Hair Styling,,,,,0,0,0,29.9,Retail website reference,0,19.8,36
+P100261,Garnier Ultra Doux Hair Food Coconut & Macadamia 3-in-1 390 ml,Ultra Doux,Personal Care,Hair Care,Oils Serums,,,,,0,0,0,43.82,Retail website reference,0,26.17,36
+P100262,Il Salone Multi Benefits 12 In 1 Leave In Hair Spray 200 ml,Il Salone,Personal Care,Hair Care,Salon Hair Care,,,,,0,0,0,85.0,Retail website reference,0,52.57,36
+P100263,Il Salone Protein Straightening Kit With Argan Oil,Il Salone,Personal Care,Hair Care,Salon Hair Care,,,,,0,0,0,276.05,Retail website reference,0,176.75,36
+P100264,Kativa Brazilian Straightening Kit,Kativa,Personal Care,Hair Care,Salon Hair Care,,,,,0,0,0,189.0,Retail website reference,0,113.02,36
+P100265,New Wave Boost It Volumizing Hair Mousse 200 ml,New Wave,Personal Care,Hair Care,Hair Styling,,,,,0,0,0,35.09,Retail website reference,0,21.36,36
+P100266,Olaplex No.7 Bonding Oil 30 ml,Olaplex,Personal Care,Hair Care,Oils Serums,,,,,0,0,0,185.0,Retail website reference,0,117.68,36
+P100267,Olia Hair Color Intense Red Kit 6.6,Olia,Personal Care,Hair Care,Hair Color,,,,,0,0,0,37.66,Retail website reference,0,23.7,36
+P100268,Pantene Pro-V Daily Care 2-in-1 Shampoo 1 L,Pantene,Personal Care,Hair Care,Shampoo,,,,,0,0,0,41.95,Retail website reference,0,26.36,36
+P100269,Philips Hair Straightener BHS375/03,Philips,Personal Care,Hair Care,Hair Styling Devices,,,,,0,0,0,138.29,Retail website reference,0,82.0,36
+P100270,Rebune Hair Styler 1200W RE-2137,Rebune,Personal Care,Hair Care,Hair Styling Devices,,,,,0,0,0,217.35,Retail website reference,0,131.33,36
+P100271,Remington Botanicals AC Hairdryer 2300W AC5860,Remington,Personal Care,Hair Care,Hair Styling Devices,,,,,0,0,0,207.16,Retail website reference,0,123.41,36
+P100272,Sunsilk Silky Smooth Styling Cream 275 ml,Sunsilk,Personal Care,Hair Care,Hair Styling,,,,,0,0,0,17.94,Retail website reference,0,10.68,36
+P100273,Ultra Doux Conditioner Avocado & Shea Butter 360 ml,Ultra Doux,Personal Care,Hair Care,Conditioner,,,,,0,0,0,23.46,Retail website reference,0,14.15,36
+P100274,Ultra Doux Rice Water Conditioner 360 ml,Ultra Doux,Personal Care,Hair Care,Conditioner,,,,,0,0,0,23.0,Retail website reference,0,13.38,36
+P100275,Ultra Doux Rice Water Silk Drops Serum - 120 ml,Ultra Doux,Personal Care,Hair Care,Oils Serums,,,,,0,0,0,50.03,Retail website reference,0,30.85,36
+P100276,Vichy Dercos Anti Hair Loss Shampoo with Aminexil 200 ml,Vichy,Personal Care,Hair Care,Shampoo,,,,,0,0,0,130.56,Retail website reference,0,77.42,36
+P100277,Al Shifa Antibacterial Wet Wipes 72 pcs,Al Shifa,Personal Care,Hygiene,Wipes,,,,,0,0,0,11.5,Private label (invented),1,4.87,36
+P100278,Al Shifa Cotton Buds 200 pcs,Al Shifa,Personal Care,Hygiene,Cotton & Buds,,,,,0,0,0,7.95,Private label (invented),1,4.12,36
+P100279,Al Shifa Hand Sanitizer Gel 500 ml,Al Shifa,Personal Care,Hygiene,Sanitizers,,,,,0,0,0,14.95,Private label (invented),1,6.88,36
+P100280,Bic Flex 5 Hybrid Men's Razor with Refills,Bic,Personal Care,Men's Grooming,Blades Razors,,,,,0,0,0,43.16,Retail website reference,0,27.25,36
+P100281,Dorco Pace2 Portable Blades Plus (5+2),Dorco,Personal Care,Men's Grooming,Blades Razors,,,,,0,0,0,16.76,Retail website reference,0,10.09,36
+P100282,Gillette Blue 3 Comfort Disposable Razor 3 pcs,Gillette,Personal Care,Men's Grooming,Blades Razors,,,,,0,0,0,27.03,Retail website reference,0,16.82,36
+P100283,Gillette Blue 3 Simple Disposable Razor 4 pcs,Gillette,Personal Care,Men's Grooming,Blades Razors,,,,,0,0,0,23.25,Retail website reference,0,14.37,36
+P100284,ALBENDA 100MG/5ML SUSP 20 - Suspension,Albenda,Prescription Medicines,Anti-infectives,Albendazole,Anti-infectives,ALBENDAZOLE,Suspension,20,1,0,0,12.2,SFDA drugs list,0,9.57,30
+P100285,BENDAZOLE 100 MG TAB 100 - Tablet,Bendazole,Prescription Medicines,Anti-infectives,Mebendazole,Anti-infectives,MEBENDAZOLE,Tablet,100,1,0,0,5.45,SFDA drugs list,0,4.31,30
+P100286,CANDIVAST 150MG CAP 150 - Capsule,Candivast,Prescription Medicines,Anti-infectives,Fluconazole,Anti-infectives,FLUCONAZOLE,Capsule,150,1,0,0,19.45,SFDA drugs list,0,15.14,30
+P100287,CANDIVAST 50MG CAP 50 - Capsule,Candivast,Prescription Medicines,Anti-infectives,Fluconazole,Anti-infectives,FLUCONAZOLE,Capsule,50,1,0,0,45.45,SFDA drugs list,0,34.64,30
+P100288,Flocazole 150 - Capsule,Flocazole,Prescription Medicines,Anti-infectives,Fluconazole,Anti-infectives,FLUCONAZOLE,Capsule,150,1,0,0,38.9,SFDA drugs list,0,28.16,30
+P100289,Herptrex 500 - Film-coated tablet,Herptrex,Prescription Medicines,Anti-infectives,Valaciclovir,Anti-infectives,VALACICLOVIR,Film-coated tablet,500,1,0,0,381.0,SFDA drugs list,0,279.76,30
+P100290,Oselow 75 - Capsule,Oselow,Prescription Medicines,Anti-infectives,Oseltamivir,Anti-infectives,OSELTAMIVIR,Capsule,75,1,0,0,71.85,SFDA drugs list,0,59.68,30
+P100291,Oseltamivir PPI 30 - Capsule,Oseltamivir,Prescription Medicines,Anti-infectives,Oseltamivir,Anti-infectives,OSELTAMIVIR,Capsule,30,1,0,0,15.6,SFDA drugs list,0,13.08,30
+P100292,Oseltamivir PPI 75 - Capsule,Oseltamivir,Prescription Medicines,Anti-infectives,Oseltamivir,Anti-infectives,OSELTAMIVIR,Capsule,75,1,0,0,28.9,SFDA drugs list,0,22.21,30
+P100293,PARAZOLE 100MG TABLET 100 - Tablet,Parazole,Prescription Medicines,Anti-infectives,Mebendazole,Anti-infectives,MEBENDAZOLE,Tablet,100,1,0,0,6.8,SFDA drugs list,0,5.44,30
+P100294,VALTREX 500 - Tablet,Valtrex,Prescription Medicines,Anti-infectives,Valaciclovir,Anti-infectives,VALACICLOVIR,Tablet,500,1,0,0,319.8,SFDA drugs list,0,243.91,30
+P100295,VERMOX 100MG TABLET 100 - Tablet,Vermox,Prescription Medicines,Anti-infectives,Mebendazole,Anti-infectives,MEBENDAZOLE,Tablet,100,1,0,0,9.5,SFDA drugs list,0,7.9,30
+P100296,AZI-ONCE 250 - Capsule,Azi-Once,Prescription Medicines,Antibiotics,Azithromycin,Antibiotics,AZITHROMYCIN,Capsule,250,1,0,0,50.65,SFDA drugs list,0,39.79,30
+P100297,CEFOVEX 500MG TABLET 500 - Tablet,Cefovex,Prescription Medicines,Antibiotics,Cefuroxime Axetil,Antibiotics,CEFUROXIME AXETIL,Tablet,500,1,0,0,49.3,SFDA drugs list,0,38.27,30
+P100298,CEFPROZ 125MG-5ML POWDER FOR ORAL SUSP 25 - Powder for oral suspension,Cefproz,Prescription Medicines,Antibiotics,Cefprozil,Antibiotics,CEFPROZIL,Powder for oral suspension,25,1,0,0,18.95,SFDA drugs list,0,14.13,18
+P100299,CEFPROZ 250MG-5ML POWDR FOR ORAL SUSP 50 - Powder for oral suspension,Cefproz,Prescription Medicines,Antibiotics,Cefprozil,Antibiotics,CEFPROZIL,Powder for oral suspension,50,1,0,0,32.25,SFDA drugs list,0,24.29,18
+P100300,CEFPROZ 250MG/5ML POWDER FOR ORAL SUSPENSION 50 - Powder for oral suspension,Cefproz,Prescription Medicines,Antibiotics,Cefprozil,Antibiotics,CEFPROZIL,Powder for oral suspension,50,1,0,0,64.5,SFDA drugs list,0,52.87,18
+P100301,"CEPHADAR FORTE 500 - Capsule, hard",Cephadar,Prescription Medicines,Antibiotics,Cefalexin,Antibiotics,CEFALEXIN,"Capsule, hard",500,1,0,0,18.1,SFDA drugs list,0,13.77,30
+P100302,CEPHALEX 500MG CAPS 500 - Capsule,Cephalex,Prescription Medicines,Antibiotics,Cefalexin,Antibiotics,CEFALEXIN,Capsule,500,1,0,0,32.45,SFDA drugs list,0,26.08,30
+P100303,CIFLOX 250MG TABLET 250 - Tablet,Ciflox,Prescription Medicines,Antibiotics,Ciprofloxacin,Antibiotics,CIPROFLOXACIN,Tablet,250,1,0,0,22.85,SFDA drugs list,0,18.14,30
+P100304,CIFLOX 500MG TABLET 500 - Tablet,Ciflox,Prescription Medicines,Antibiotics,Ciprofloxacin,Antibiotics,CIPROFLOXACIN,Tablet,500,1,0,0,37.45,SFDA drugs list,0,31.45,30
+P100305,CIPROGEN 500 - Film-coated tablet,Ciprogen,Prescription Medicines,Antibiotics,Ciprofloxacin,Antibiotics,CIPROFLOXACIN,Film-coated tablet,500,1,0,0,54.25,SFDA drugs list,0,42.47,30
+P100306,CLARIDAR 250 - Film-coated tablet,Claridar,Prescription Medicines,Antibiotics,Clarithromycin,Antibiotics,CLARITHROMYCIN,Film-coated tablet,250,1,0,0,24.45,SFDA drugs list,0,18.02,30
+P100307,DOXYCIN 100 - Capsule,Doxycin,Prescription Medicines,Antibiotics,Doxycycline,Antibiotics,DOXYCYCLINE,Capsule,100,1,0,0,21.65,SFDA drugs list,0,17.61,30
+P100308,DOXYDAR 100 - Capsule,Doxydar,Prescription Medicines,Antibiotics,Doxycycline,Antibiotics,DOXYCYCLINE,Capsule,100,1,0,0,15.3,SFDA drugs list,0,12.02,30
+P100309,Fontro 3 - Granules for oral solution,Fontro,Prescription Medicines,Antibiotics,Fosfomycin,Antibiotics,FOSFOMYCIN,Granules for oral solution,3,1,0,0,28.3,SFDA drugs list,0,22.18,30
+P100310,KLACID 250MG TAB 250 - Tablet,Klacid,Prescription Medicines,Antibiotics,Clarithromycin,Antibiotics,CLARITHROMYCIN,Tablet,250,1,0,0,60.4,SFDA drugs list,0,45.9,30
+P100311,KLACID 500MG COATED TAB 500 - Coated tablet,Klacid,Prescription Medicines,Antibiotics,Clarithromycin,Antibiotics,CLARITHROMYCIN,Coated tablet,500,1,0,0,90.2,SFDA drugs list,0,72.18,30
+P100312,Lenova 500 - Tablet,Lenova,Prescription Medicines,Antibiotics,Levofloxacin,Antibiotics,LEVOFLOXACIN,Tablet,500,1,0,0,24.787,SFDA drugs list,0,18.4,30
+P100313,MONUROL 3.0 - Granules,Monurol,Prescription Medicines,Antibiotics,Fosfomycin,Antibiotics,FOSFOMYCIN,Granules,3.0,1,0,0,64.5,SFDA drugs list,0,50.9,30
+P100314,MONUROL 3G SACHETS 3 - Granules,Monurol,Prescription Medicines,Antibiotics,Fosfomycin,Antibiotics,FOSFOMYCIN,Granules,3,1,0,0,32.25,SFDA drugs list,0,24.81,30
+P100315,MOXIDAD FORTE 500 - Capsule,Moxidad,Prescription Medicines,Antibiotics,Amoxicillin,Antibiotics,AMOXICILLIN,Capsule,500,1,0,0,12.9,SFDA drugs list,0,9.84,30
+P100316,"Mixif 400 - Capsule, hard",Mixif,Prescription Medicines,Antibiotics,Cefixime,Antibiotics,CEFIXIME,"Capsule, hard",400,1,0,0,75.5,SFDA drugs list,0,61.58,30
+P100317,Nuvessa 1.3 - Gel,Nuvessa,Prescription Medicines,Antibiotics,Metronidazole,Antibiotics,METRONIDAZOLE,Gel,1.3,1,0,0,75.9,SFDA drugs list,0,60.04,30
+P100318,RAFLOX 250 - Film-coated tablet,Raflox,Prescription Medicines,Antibiotics,Levofloxacin,Antibiotics,LEVOFLOXACIN,Film-coated tablet,250,1,0,0,26.0,SFDA drugs list,0,19.74,30
+P100319,ROZEX GEL 0.75% W-W 0.75 - Gel,Rozex,Prescription Medicines,Antibiotics,Metronidazole,Antibiotics,METRONIDAZOLE,Gel,0.75,1,0,0,19.75,SFDA drugs list,0,14.5,30
+P100320,"Remox 250 - Capsule, hard",Remox,Prescription Medicines,Antibiotics,Amoxicillin,Antibiotics,AMOXICILLIN,"Capsule, hard",250,1,0,0,54.6,SFDA drugs list,0,42.47,30
+P100321,Remox 500 - Capsule,Remox,Prescription Medicines,Antibiotics,Amoxicillin,Antibiotics,AMOXICILLIN,Capsule,500,1,0,0,99.95,SFDA drugs list,0,81.56,30
+P100322,SUPRAX 400 CAPS 400 - Capsule,Suprax,Prescription Medicines,Antibiotics,Cefixime,Antibiotics,CEFIXIME,Capsule,400,1,0,0,72.5,SFDA drugs list,0,57.81,30
+P100323,Suprazole 200 - Tablet,Suprazole,Prescription Medicines,Antibiotics,Metronidazole,Antibiotics,METRONIDAZOLE,Tablet,200,1,0,0,94.85,SFDA drugs list,0,74.69,30
+P100324,"UVAMIN 100MG RETARD CAPSULES 100 - Capsule, hard",Uvamin,Prescription Medicines,Antibiotics,Nitrofurantoin,Antibiotics,NITROFURANTOIN,"Capsule, hard",100,1,0,0,27.25,SFDA drugs list,0,21.6,30
+P100325,Vedoxin 250 - Film-coated tablet,Vedoxin,Prescription Medicines,Antibiotics,Levofloxacin,Antibiotics,LEVOFLOXACIN,Film-coated tablet,250,1,0,0,26.0,SFDA drugs list,0,20.54,30
+P100326,WINEX 400MG CAP 400 - Capsule,Winex,Prescription Medicines,Antibiotics,Cefixime,Antibiotics,CEFIXIME,Capsule,400,1,0,0,67.95,SFDA drugs list,0,53.4,30
+P100327,ZIMAX 250MG CAP. 250 - Capsule,Zimax,Prescription Medicines,Antibiotics,Azithromycin,Antibiotics,AZITHROMYCIN,Capsule,250,1,0,0,62.8,SFDA drugs list,0,47.7,30
+P100328,ZINNAT 250 - Coated tablet,Zinnat,Prescription Medicines,Antibiotics,Cefuroxime Axetil,Antibiotics,CEFUROXIME AXETIL,Coated tablet,250,1,0,0,57.4,SFDA drugs list,0,44.42,30
+P100329,ZINNAT 500 - Coated tablet,Zinnat,Prescription Medicines,Antibiotics,Cefuroxime Axetil,Antibiotics,CEFUROXIME AXETIL,Coated tablet,500,1,0,0,69.6,SFDA drugs list,0,55.26,30
+P100330,Zencin 500 - Film-coated tablet,Zencin,Prescription Medicines,Antibiotics,Azithromycin,Antibiotics,AZITHROMYCIN,Film-coated tablet,500,1,0,0,32.3,SFDA drugs list,0,25.26,30
+P100331,ASMADIL SYRUP 0.4 - Syrup,Asmadil,Prescription Medicines,Asthma & COPD,Salbutamol,Asthma & COPD,SALBUTAMOL,Syrup,0.4,1,1,0,4.4,SFDA drugs list,0,3.56,18
+P100332,ASMADIL TABS 2MG 2 - Tablet,Asmadil,Prescription Medicines,Asthma & COPD,Salbutamol,Asthma & COPD,SALBUTAMOL,Tablet,2,1,1,0,3.4,SFDA drugs list,0,2.74,30
+P100333,Budenoor 64 - Nasal spray,Budenoor,Prescription Medicines,Asthma & COPD,Budesonide,Asthma & COPD,BUDESONIDE,Nasal spray,64,1,1,0,45.0,SFDA drugs list,0,34.84,30
+P100334,LEUKAIR 5 - Chewable tablet,Leukair,Prescription Medicines,Asthma & COPD,Montelukast Sodium,Asthma & COPD,MONTELUKAST SODIUM,Chewable tablet,5,1,1,0,35.7,SFDA drugs list,0,29.4,30
+P100335,Polmena 0.5 - Nebuliser suspension,Polmena,Prescription Medicines,Asthma & COPD,Budesonide,Asthma & COPD,BUDESONIDE,Nebuliser suspension,0.5,1,1,0,120.8,SFDA drugs list,0,97.06,30
+P100336,Pulmistad 0.5 - Nebuliser suspension,Pulmistad,Prescription Medicines,Asthma & COPD,Budesonide,Asthma & COPD,BUDESONIDE,Nebuliser suspension,0.5,1,1,0,104.4,SFDA drugs list,0,80.32,30
+P100337,REOVAIR 5 - Chewable tablet,Reovair,Prescription Medicines,Asthma & COPD,Montelukast Sodium,Asthma & COPD,MONTELUKAST SODIUM,Chewable tablet,5,1,1,0,60.0,SFDA drugs list,0,46.83,30
+P100338,Telojee 5 - Chewable tablet,Telojee,Prescription Medicines,Asthma & COPD,Montelukast Sodium,Asthma & COPD,MONTELUKAST SODIUM,Chewable tablet,5,1,1,0,64.3,SFDA drugs list,0,51.04,30
+P100339,"Tiogiva 18 - Inhalation powder, hard capsule",Tiogiva,Prescription Medicines,Asthma & COPD,Tiotropium,Asthma & COPD,TIOTROPIUM,"Inhalation powder, hard capsule",18,1,1,0,113.75,SFDA drugs list,0,89.03,30
+P100340,"Tiomist 10 - Inhalation powder, hard capsule",Tiomist,Prescription Medicines,Asthma & COPD,Tiotropium,Asthma & COPD,TIOTROPIUM,"Inhalation powder, hard capsule",10,1,1,0,132.7,SFDA drugs list,0,99.97,30
+P100341,"Triova 13 - Inhalation powder, hard capsule",Triova,Prescription Medicines,Asthma & COPD,Tiotropium,Asthma & COPD,TIOTROPIUM,"Inhalation powder, hard capsule",13,1,1,0,123.2,SFDA drugs list,0,101.24,30
+P100342,VENTOLIN 0.4 - Syrup,Ventolin,Prescription Medicines,Asthma & COPD,Salbutamol,Asthma & COPD,SALBUTAMOL,Syrup,0.4,1,1,0,8.35,SFDA drugs list,0,6.68,18
+P100343,CUPIDO 75 - Film-coated tablet,Cupido,Prescription Medicines,Blood Thinners,Clopidogrel,Blood Thinners,CLOPIDOGREL,Film-coated tablet,75,1,1,0,158.0,SFDA drugs list,0,120.9,30
+P100344,Coufatex 2.5 - Tablet,Coufatex,Prescription Medicines,Blood Thinners,Warfarin Sodium,Blood Thinners,WARFARIN SODIUM,Tablet,2.5,1,1,0,68.85,SFDA drugs list,0,51.97,30
+P100345,Coufatex 3 - Tablet,Coufatex,Prescription Medicines,Blood Thinners,Warfarin Sodium,Blood Thinners,WARFARIN SODIUM,Tablet,3,1,1,0,97.4,SFDA drugs list,0,78.94,30
+P100346,Coufatex 4 - Tablet,Coufatex,Prescription Medicines,Blood Thinners,Warfarin Sodium,Blood Thinners,WARFARIN SODIUM,Tablet,4,1,1,0,97.4,SFDA drugs list,0,76.01,30
+P100347,Devasc 75 - Tablet,Devasc,Prescription Medicines,Blood Thinners,Clopidogrel,Blood Thinners,CLOPIDOGREL,Tablet,75,1,1,0,118.15,SFDA drugs list,0,89.1,30
+P100348,ENOXA 2000 - Solution for injection,Enoxa,Prescription Medicines,Blood Thinners,Enoxaparin Sodium,Blood Thinners,ENOXAPARIN SODIUM,Solution for injection,2000,1,1,0,18.2,SFDA drugs list,0,13.85,30
+P100349,ENOXA 6000 - Solution for injection,Enoxa,Prescription Medicines,Blood Thinners,Enoxaparin Sodium,Blood Thinners,ENOXAPARIN SODIUM,Solution for injection,6000,1,1,0,39.7,SFDA drugs list,0,30.71,30
+P100350,ENOXA 8000 - Solution for injection,Enoxa,Prescription Medicines,Blood Thinners,Enoxaparin Sodium,Blood Thinners,ENOXAPARIN SODIUM,Solution for injection,8000,1,1,0,49.3,SFDA drugs list,0,35.11,30
+P100351,Harfib 10 - Tablet,Harfib,Prescription Medicines,Blood Thinners,Rivaroxaban,Blood Thinners,RIVAROXABAN,Tablet,10,1,1,0,179.7,SFDA drugs list,0,146.34,30
+P100352,Harfib 15 - Tablet,Harfib,Prescription Medicines,Blood Thinners,Rivaroxaban,Blood Thinners,RIVAROXABAN,Tablet,15,1,1,0,179.7,SFDA drugs list,0,149.27,30
+P100353,Harfib 20 - Tablet,Harfib,Prescription Medicines,Blood Thinners,Rivaroxaban,Blood Thinners,RIVAROXABAN,Tablet,20,1,1,0,179.7,SFDA drugs list,0,135.76,30
+P100354,Paxas 5 - Film-coated tablet,Paxas,Prescription Medicines,Blood Thinners,Apixaban,Blood Thinners,APIXABAN,Film-coated tablet,5,1,1,0,231.0,SFDA drugs list,0,169.89,30
+P100355,Xcard 2.5 - Tablet,Xcard,Prescription Medicines,Blood Thinners,Apixaban,Blood Thinners,APIXABAN,Tablet,2.5,1,1,0,231.0,SFDA drugs list,0,167.16,30
+P100356,Xcard 5 - Tablet,Xcard,Prescription Medicines,Blood Thinners,Apixaban,Blood Thinners,APIXABAN,Tablet,5,1,1,0,231.0,SFDA drugs list,0,174.13,30
+P100357,pidoz 75 - Tablet,Pidoz,Prescription Medicines,Blood Thinners,Clopidogrel,Blood Thinners,CLOPIDOGREL,Tablet,75,1,1,0,118.15,SFDA drugs list,0,96.58,30
+P100358,"Cartiflex 500,50 - Capsule, hard",Cartiflex,Prescription Medicines,Bones & Joints,Glucosamine Sulfate,Bones & Joints,"GLUCOSAMINE SULFATE,GINKGO BILOBA","Capsule, hard","500,50",1,1,0,26.0,SFDA drugs list,0,20.11,30
+P100359,Dona 1500 - Powder for oral solution,Dona,Prescription Medicines,Bones & Joints,Glucosamine Sulfate,Bones & Joints,GLUCOSAMINE SULFATE,Powder for oral solution,1500,1,1,0,62.25,SFDA drugs list,0,48.94,30
+P100360,MOBIXEN 750 - Film-coated tablet,Mobixen,Prescription Medicines,Bones & Joints,Glucosamine Sulfate,Bones & Joints,GLUCOSAMINE SULFATE,Film-coated tablet,750,1,1,0,92.1,SFDA drugs list,0,71.03,30
+P100361,NO-URIC 100 mg tablet 100 - Tablet,No-Uric,Prescription Medicines,Bones & Joints,Allopurinol,Bones & Joints,ALLOPURINOL,Tablet,100,1,1,0,16.3,SFDA drugs list,0,12.73,30
+P100362,NO-URIC TAB 300MG 300 - Tablet,No-Uric,Prescription Medicines,Bones & Joints,Allopurinol,Bones & Joints,ALLOPURINOL,Tablet,300,1,1,0,8.0,SFDA drugs list,0,6.17,30
+P100363,SIRDALUD 2MG TAB 2 - Tablet,Sirdalud,Prescription Medicines,Bones & Joints,Tizanidine,Bones & Joints,TIZANIDINE,Tablet,2,1,1,0,18.75,SFDA drugs list,0,14.91,30
+P100364,SIRDALUD 4MG TAB 4 - Tablet,Sirdalud,Prescription Medicines,Bones & Joints,Tizanidine,Bones & Joints,TIZANIDINE,Tablet,4,1,1,0,30.7,SFDA drugs list,0,24.81,30
+P100365,TILAX 2 MG TABLET 2 - Tablet,Tilax,Prescription Medicines,Bones & Joints,Tizanidine,Bones & Joints,TIZANIDINE,Tablet,2,1,1,0,17.8,SFDA drugs list,0,14.34,30
+P100366,Urago 40 - Film-coated tablet,Urago,Prescription Medicines,Bones & Joints,Febuxostat,Bones & Joints,FEBUXOSTAT,Film-coated tablet,40,1,1,0,90.1,SFDA drugs list,0,68.92,30
+P100367,ZYLORIC 100MG TABLET 100 - Tablet,Zyloric,Prescription Medicines,Bones & Joints,Allopurinol,Bones & Joints,ALLOPURINOL,Tablet,100,1,1,0,22.0,SFDA drugs list,0,17.36,30
+P100368,Zoxta 40 - Film-coated tablet,Zoxta,Prescription Medicines,Bones & Joints,Febuxostat,Bones & Joints,FEBUXOSTAT,Film-coated tablet,40,1,1,0,63.6,SFDA drugs list,0,49.77,30
+P100369,Zoxta 80 - Film-coated tablet,Zoxta,Prescription Medicines,Bones & Joints,Febuxostat,Bones & Joints,FEBUXOSTAT,Film-coated tablet,80,1,1,0,63.6,SFDA drugs list,0,49.21,30
+P100370,Atorva 10 - Film-coated tablet,Atorva,Prescription Medicines,Cholesterol,Atorvastatin Calcium,Cholesterol,ATORVASTATIN CALCIUM,Film-coated tablet,10,1,1,0,172.6,SFDA drugs list,0,145.55,30
+P100371,Atorva 40 - Film-coated tablet,Atorva,Prescription Medicines,Cholesterol,Atorvastatin Calcium,Cholesterol,ATORVASTATIN CALCIUM,Film-coated tablet,40,1,1,0,304.8,SFDA drugs list,0,235.37,30
+P100372,Aztolyp 40 - Film-coated tablet,Aztolyp,Prescription Medicines,Cholesterol,Atorvastatin Calcium,Cholesterol,ATORVASTATIN CALCIUM,Film-coated tablet,40,1,1,0,86.9,SFDA drugs list,0,72.07,30
+P100373,EZENTIA 10 - Tablet,Ezentia,Prescription Medicines,Cholesterol,Ezetimibe,Cholesterol,EZETIMIBE,Tablet,10,1,1,0,109.5,SFDA drugs list,0,84.07,30
+P100374,Etimicol 10 10 - Tablet,Etimicol,Prescription Medicines,Cholesterol,Ezetimibe,Cholesterol,EZETIMIBE,Tablet,10,1,1,0,118.5,SFDA drugs list,0,95.95,30
+P100375,"Finate 200 - Capsule, hard",Finate,Prescription Medicines,Cholesterol,Fenofibrate,Cholesterol,FENOFIBRATE,"Capsule, hard",200,1,1,0,37.85,SFDA drugs list,0,30.63,30
+P100376,"INEGY 20,10 - Tablet",Inegy,Prescription Medicines,Cholesterol,Simvastatin,Cholesterol,"SIMVASTATIN,EZETIMIBE",Tablet,"20,10",1,1,0,119.4,SFDA drugs list,0,96.21,30
+P100377,"INEGY 40,10 - Tablet",Inegy,Prescription Medicines,Cholesterol,Simvastatin,Cholesterol,"SIMVASTATIN,EZETIMIBE",Tablet,"40,10",1,1,0,135.75,SFDA drugs list,0,106.56,30
+P100378,"LUNIA 10,20 - Tablet",Lunia,Prescription Medicines,Cholesterol,Ezetimibe,Cholesterol,"EZETIMIBE,SIMVASTATIN",Tablet,"10,20",1,1,0,134.2,SFDA drugs list,0,110.77,30
+P100379,Lipofirate 48 - Film-coated tablet,Lipofirate,Prescription Medicines,Cholesterol,Fenofibrate,Cholesterol,FENOFIBRATE,Film-coated tablet,48,1,1,0,12.5,SFDA drugs list,0,9.56,30
+P100380,ROST 10 - Tablet,Rost,Prescription Medicines,Cholesterol,Rosuvastatin,Cholesterol,ROSUVASTATIN,Tablet,10,1,1,0,55.15,SFDA drugs list,0,42.95,30
+P100381,ROST 20 - Tablet,Rost,Prescription Medicines,Cholesterol,Rosuvastatin,Cholesterol,ROSUVASTATIN,Tablet,20,1,1,0,93.5,SFDA drugs list,0,73.62,30
+P100382,ROST 40 - Tablet,Rost,Prescription Medicines,Cholesterol,Rosuvastatin,Cholesterol,ROSUVASTATIN,Tablet,40,1,1,0,183.0,SFDA drugs list,0,142.5,30
+P100383,TRIX 200 mg Capsule 200 - Capsule,Trix,Prescription Medicines,Cholesterol,Fenofibrate,Cholesterol,FENOFIBRATE,Capsule,200,1,1,0,31.55,SFDA drugs list,0,26.16,30
+P100384,Zavoxa 10 - Tablet,Zavoxa,Prescription Medicines,Cholesterol,Ezetimibe,Cholesterol,EZETIMIBE,Tablet,10,1,1,0,118.5,SFDA drugs list,0,92.65,30
+P100385,AVOCOM 0.1 - Ointment,Avocom,Prescription Medicines,Dermatology,Mometasone Furoate,Dermatology,MOMETASONE FUROATE,Ointment,0.1,1,0,0,17.1,SFDA drugs list,0,13.28,30
+P100386,Alfacort 1 - Cream,Alfacort,Prescription Medicines,Dermatology,Hydrocortisone,Dermatology,HYDROCORTISONE,Cream,1,1,0,0,16.4,SFDA drugs list,0,12.98,30
+P100387,Avoban 2 - Cream,Avoban,Prescription Medicines,Dermatology,Mupirocin Calcium,Dermatology,MUPIROCIN CALCIUM,Cream,2,1,0,0,38.8,SFDA drugs list,0,33.31,30
+P100388,BACTROBAN OINT 2% 2 - Ointment,Bactroban,Prescription Medicines,Dermatology,Mupirocin Calcium,Dermatology,MUPIROCIN CALCIUM,Ointment,2,1,0,0,27.7,SFDA drugs list,0,21.4,30
+P100389,BALAD 2 - Cream,Balad,Prescription Medicines,Dermatology,Fusidic Acid,Dermatology,FUSIDIC ACID,Cream,2,1,0,0,9.15,SFDA drugs list,0,7.19,30
+P100390,BETADERM 0.1% cream 0.1 - Cream,Betaderm,Prescription Medicines,Dermatology,Betamethasone Valerate,Dermatology,BETAMETHASONE VALERATE,Cream,0.1,1,0,0,4.2,SFDA drugs list,0,3.16,30
+P100391,BETAMED 0.1% CREAM 0.1 - Cream,Betamed,Prescription Medicines,Dermatology,Betamethasone Valerate,Dermatology,BETAMETHASONE VALERATE,Cream,0.1,1,0,0,2.95,SFDA drugs list,0,2.24,30
+P100392,BEVASON 0.1% CREAM 0.1 - Cream,Bevason,Prescription Medicines,Dermatology,Betamethasone Valerate,Dermatology,BETAMETHASONE VALERATE,Cream,0.1,1,0,0,4.0,SFDA drugs list,0,3.0,30
+P100393,CORTIDERM 1% CREAM 10 - Cream,Cortiderm,Prescription Medicines,Dermatology,Hydrocortisone,Dermatology,HYDROCORTISONE,Cream,10,1,0,0,16.35,SFDA drugs list,0,11.98,30
+P100394,CUTIVATE 0.05% cream 0.05 - Cream,Cutivate,Prescription Medicines,Dermatology,Fluticasone Propionate,Dermatology,FLUTICASONE PROPIONATE,Cream,0.05,1,0,0,18.05,SFDA drugs list,0,13.9,30
+P100395,DIFFERIN 0.1% GEL 0.1 - Gel,Differin,Prescription Medicines,Dermatology,Adapalene,Dermatology,ADAPALENE,Gel,0.1,1,0,0,18.75,SFDA drugs list,0,14.75,30
+P100396,ELICA 0.1% CREAM 0.1 - Cream,Elica,Prescription Medicines,Dermatology,Mometasone Furoate,Dermatology,MOMETASONE FUROATE,Cream,0.1,1,0,0,19.2,SFDA drugs list,0,15.12,30
+P100397,Eralyce 1 - Cream,Eralyce,Prescription Medicines,Dermatology,Permethrin,Dermatology,PERMETHRIN,Cream,1,1,0,0,42.9,SFDA drugs list,0,32.32,30
+P100398,Eralyce 5 - Cream,Eralyce,Prescription Medicines,Dermatology,Permethrin,Dermatology,PERMETHRIN,Cream,5,1,0,0,42.9,SFDA drugs list,0,34.45,30
+P100399,JNESTY 2 - Cream,Jnesty,Prescription Medicines,Dermatology,Fusidic Acid,Dermatology,FUSIDIC ACID,Cream,2,1,0,0,15.7,SFDA drugs list,0,12.22,30
+P100400,Kortida 10 - Tablet,Kortida,Prescription Medicines,Dermatology,Hydrocortisone,Dermatology,HYDROCORTISONE,Tablet,10,1,0,0,45.05,SFDA drugs list,0,37.59,30
+P100401,Nosco 50 - Nasal spray,Nosco,Prescription Medicines,Dermatology,Mometasone Furoate,Dermatology,MOMETASONE FUROATE,Nasal spray,50,1,0,0,37.45,SFDA drugs list,0,28.97,30
+P100402,POTENCORT 0.05% CREAM 0.05 - Cream,Potencort,Prescription Medicines,Dermatology,Fluticasone Propionate,Dermatology,FLUTICASONE PROPIONATE,Cream,0.05,1,0,0,5.15,SFDA drugs list,0,3.7,30
+P100403,UCIDERM 2% W-W GEL 2 - Gel,Uciderm,Prescription Medicines,Dermatology,Fusidic Acid,Dermatology,FUSIDIC ACID,Gel,2,1,0,0,7.1,SFDA drugs list,0,5.22,30
+P100404,WATENE 0.1% CREAM 0.1 - Cream,Watene,Prescription Medicines,Dermatology,Adapalene,Dermatology,ADAPALENE,Cream,0.1,1,0,0,21.95,SFDA drugs list,0,17.05,30
+P100405,WATENE 0.1% GEL 0.1 - Gel,Watene,Prescription Medicines,Dermatology,Adapalene,Dermatology,ADAPALENE,Gel,0.1,1,0,0,21.95,SFDA drugs list,0,17.27,30
+P100406,ACTOS 15MG TABLET 15 - Tablet,Actos,Prescription Medicines,Diabetes,Pioglitazone,Diabetes,PIOGLITAZONE,Tablet,15,1,1,0,51.7,SFDA drugs list,0,41.3,30
+P100407,ACTOS 30MG TAB 30 - Tablet,Actos,Prescription Medicines,Diabetes,Pioglitazone,Diabetes,PIOGLITAZONE,Tablet,30,1,1,0,87.75,SFDA drugs list,0,68.58,30
+P100408,ACTRAPID 100 - Solution,Actrapid,Prescription Medicines,Diabetes,Insulin Neutral,Diabetes,INSULIN NEUTRAL,Solution,100,1,1,1,65.0,SFDA drugs list,0,53.19,12
+P100409,AMARYL 1MG TAB 1 - Tablet,Amaryl,Prescription Medicines,Diabetes,Glimepiride,Diabetes,GLIMEPIRIDE,Tablet,1,1,1,0,20.8,SFDA drugs list,0,17.55,30
+P100410,AMARYL 2MG TAB 2 - Tablet,Amaryl,Prescription Medicines,Diabetes,Glimepiride,Diabetes,GLIMEPIRIDE,Tablet,2,1,1,0,33.9,SFDA drugs list,0,26.07,30
+P100411,Awiqli 700 - Solution for injection,Awiqli,Prescription Medicines,Diabetes,Insulin Icodec,Diabetes,INSULIN ICODEC,Solution for injection,700,1,1,1,216.0,SFDA drugs list,0,160.33,12
+P100412,Balivio 50 - Film-coated tablet,Balivio,Prescription Medicines,Diabetes,Sitagliptin,Diabetes,SITAGLIPTIN,Film-coated tablet,50,1,1,0,45.0,SFDA drugs list,0,37.46,30
+P100413,DIFIA 5 - Film-coated tablet,Difia,Prescription Medicines,Diabetes,Dapagliflozin,Diabetes,DAPAGLIFLOZIN,Film-coated tablet,5,1,1,0,93.3,SFDA drugs list,0,74.29,30
+P100414,EMBA 10 - Film-coated tablet,Emba,Prescription Medicines,Diabetes,Empagliflozin,Diabetes,EMPAGLIFLOZIN,Film-coated tablet,10,1,1,0,128.4,SFDA drugs list,0,101.21,30
+P100415,EMBA 25 - Film-coated tablet,Emba,Prescription Medicines,Diabetes,Empagliflozin,Diabetes,EMPAGLIFLOZIN,Film-coated tablet,25,1,1,0,128.4,SFDA drugs list,0,100.41,30
+P100416,Empamac 25 - Film-coated tablet,Empamac,Prescription Medicines,Diabetes,Empagliflozin,Diabetes,EMPAGLIFLOZIN,Film-coated tablet,25,1,1,0,128.4,SFDA drugs list,0,100.77,30
+P100417,Evonanz 18 mg per 3 ml 6 - Solution for injection,Evonanz,Prescription Medicines,Diabetes,Liraglutide,Diabetes,LIRAGLUTIDE,Solution for injection,6,1,1,1,297.75,SFDA drugs list,0,237.25,12
+P100418,FORMIT 850 MG TABLETS 850 - Tablet,Formit,Prescription Medicines,Diabetes,Metformin Hydrochloride,Diabetes,METFORMIN HYDROCHLORIDE,Tablet,850,1,1,0,26.15,SFDA drugs list,0,20.86,30
+P100419,Formit 100 - Oral solution,Formit,Prescription Medicines,Diabetes,Metformin Hydrochloride,Diabetes,METFORMIN HYDROCHLORIDE,Oral solution,100,1,1,0,70.0,SFDA drugs list,0,54.2,30
+P100420,GLADOS 15MG TABLET 15 - Tablet,Glados,Prescription Medicines,Diabetes,Pioglitazone,Diabetes,PIOGLITAZONE,Tablet,15,1,1,0,42.0,SFDA drugs list,0,33.76,30
+P100421,GLAZE 80MG TAB 80 - Tablet,Glaze,Prescription Medicines,Diabetes,Gliclazide,Diabetes,GLICLAZIDE,Tablet,80,1,1,0,34.95,SFDA drugs list,0,27.39,30
+P100422,Geuvid 50 - Tablet,Geuvid,Prescription Medicines,Diabetes,Vildagliptin,Diabetes,VILDAGLIPTIN,Tablet,50,1,1,0,66.5,SFDA drugs list,0,51.61,30
+P100423,Glytix 100 - Film-coated tablet,Glytix,Prescription Medicines,Diabetes,Sitagliptin,Diabetes,SITAGLIPTIN,Film-coated tablet,100,1,1,0,84.2,SFDA drugs list,0,63.76,30
+P100424,Glytix 50 - Film-coated tablet,Glytix,Prescription Medicines,Diabetes,Sitagliptin,Diabetes,SITAGLIPTIN,Film-coated tablet,50,1,1,0,45.0,SFDA drugs list,0,33.96,30
+P100425,Glyvanza 30 - Modified-release tablet,Glyvanza,Prescription Medicines,Diabetes,Gliclazide,Diabetes,GLICLAZIDE,Modified-release tablet,30,1,1,0,21.6,SFDA drugs list,0,17.58,30
+P100426,Glyvanza 60 - Modified-release tablet,Glyvanza,Prescription Medicines,Diabetes,Gliclazide,Diabetes,GLICLAZIDE,Modified-release tablet,60,1,1,0,21.6,SFDA drugs list,0,18.14,30
+P100427,Iylus 50 - Tablet,Iylus,Prescription Medicines,Diabetes,Vildagliptin,Diabetes,VILDAGLIPTIN,Tablet,50,1,1,0,33.25,SFDA drugs list,0,25.16,30
+P100428,Kirsty 100 - Solution for injection,Kirsty,Prescription Medicines,Diabetes,Insulin Aspart,Diabetes,INSULIN ASPART,Solution for injection,100,1,1,1,141.75,SFDA drugs list,0,111.22,12
+P100429,Ligra 6 - Solution for injection in pre-filled pen,Ligra,Prescription Medicines,Diabetes,Liraglutide,Diabetes,LIRAGLUTIDE,Solution for injection in pre-filled pen,6,1,1,1,258.05,SFDA drugs list,0,201.22,12
+P100430,Lijen 5 - Film-coated tablet,Lijen,Prescription Medicines,Diabetes,Linagliptin,Diabetes,LINAGLIPTIN,Film-coated tablet,5,1,1,0,68.05,SFDA drugs list,0,50.14,30
+P100431,Lintra 5 - Film-coated tablet,Lintra,Prescription Medicines,Diabetes,Linagliptin,Diabetes,LINAGLIPTIN,Film-coated tablet,5,1,1,0,94.8,SFDA drugs list,0,70.39,30
+P100432,Liptyn 5 - Tablet,Liptyn,Prescription Medicines,Diabetes,Linagliptin,Diabetes,LINAGLIPTIN,Tablet,5,1,1,0,68.05,SFDA drugs list,0,56.22,30
+P100433,METFOR 500 500 - Film-coated tablet,Metfor,Prescription Medicines,Diabetes,Metformin Hydrochloride,Diabetes,METFORMIN HYDROCHLORIDE,Film-coated tablet,500,1,1,0,15.7,SFDA drugs list,0,12.2,30
+P100434,Rybelsus 14 - Tablet,Rybelsus,Prescription Medicines,Diabetes,Semaglutide,Diabetes,SEMAGLUTIDE,Tablet,14,1,1,0,456.7,SFDA drugs list,0,365.74,30
+P100435,Rybelsus 3 - Tablet,Rybelsus,Prescription Medicines,Diabetes,Semaglutide,Diabetes,SEMAGLUTIDE,Tablet,3,1,1,0,456.7,SFDA drugs list,0,356.04,30
+P100436,Rybelsus 7 - Tablet,Rybelsus,Prescription Medicines,Diabetes,Semaglutide,Diabetes,SEMAGLUTIDE,Tablet,7,1,1,0,456.7,SFDA drugs list,0,342.99,30
+P100437,TRULICITY 0.75 mg Solution for Injection in Prefilled Pen 0.75 - Solution for injection,Trulicity,Prescription Medicines,Diabetes,Dulaglutide,Diabetes,DULAGLUTIDE,Solution for injection,0.75,1,1,1,362.4,SFDA drugs list,0,285.93,12
+P100438,TRULICITY 1.5 mg Solution for Injection in Prefilled Pen 1.5 - Solution for injection,Trulicity,Prescription Medicines,Diabetes,Dulaglutide,Diabetes,DULAGLUTIDE,Solution for injection,1.5,1,1,1,362.4,SFDA drugs list,0,286.75,12
+P100439,Vdia 50 - Tablet,Vdia,Prescription Medicines,Diabetes,Vildagliptin,Diabetes,VILDAGLIPTIN,Tablet,50,1,1,0,33.25,SFDA drugs list,0,26.78,30
+P100440,Xija 10 - Film-coated tablet,Xija,Prescription Medicines,Diabetes,Dapagliflozin,Diabetes,DAPAGLIFLOZIN,Film-coated tablet,10,1,1,0,98.2,SFDA drugs list,0,73.36,30
+P100441,Xija 5 - Film-coated tablet,Xija,Prescription Medicines,Diabetes,Dapagliflozin,Diabetes,DAPAGLIFLOZIN,Film-coated tablet,5,1,1,0,98.2,SFDA drugs list,0,79.47,30
+P100442,Zelyssa 18 mg per 3 ml 6 - Solution for injection,Zelyssa,Prescription Medicines,Diabetes,Liraglutide,Diabetes,LIRAGLUTIDE,Solution for injection,6,1,1,1,665.55,SFDA drugs list,0,525.65,12
+P100443,DOMPY 10MG TABLET 10 - Tablet,Dompy,Prescription Medicines,Digestive Health,Domperidone,Digestive Health,DOMPERIDONE,Tablet,10,1,0,0,16.25,SFDA drugs list,0,12.82,30
+P100444,Famotidine Amarox 10 - Tablet,Famotidine,Prescription Medicines,Digestive Health,Famotidine,Digestive Health,FAMOTIDINE,Tablet,10,1,0,0,19.3,SFDA drugs list,0,16.03,30
+P100445,Famotidine Amarox 20 - Tablet,Famotidine,Prescription Medicines,Digestive Health,Famotidine,Digestive Health,FAMOTIDINE,Tablet,20,1,0,0,38.6,SFDA drugs list,0,29.71,30
+P100446,Famotidine Amarox 40 - Tablet,Famotidine,Prescription Medicines,Digestive Health,Famotidine,Digestive Health,FAMOTIDINE,Tablet,40,1,0,0,77.25,SFDA drugs list,0,64.97,30
+P100447,LANFAST 30MG CAPSULE 30 - Capsule,Lanfast,Prescription Medicines,Digestive Health,Lansoprazole,Digestive Health,LANSOPRAZOLE,Capsule,30,1,0,0,58.1,SFDA drugs list,0,45.91,30
+P100448,MEBAGEN 135 - Film-coated tablet,Mebagen,Prescription Medicines,Digestive Health,Mebeverine Hydrochloride,Digestive Health,MEBEVERINE HYDROCHLORIDE,Film-coated tablet,135,1,0,0,21.65,SFDA drugs list,0,17.0,30
+P100449,MOTILIUM TAB 10MG 10 - Film-coated tablet,Motilium,Prescription Medicines,Digestive Health,Domperidone,Digestive Health,DOMPERIDONE,Film-coated tablet,10,1,0,0,17.1,SFDA drugs list,0,13.8,30
+P100450,OMIZ 10MG CAP 10 - Capsule,Omiz,Prescription Medicines,Digestive Health,Omeprazole,Digestive Health,OMEPRAZOLE,Capsule,10,1,0,0,23.0,SFDA drugs list,0,18.25,30
+P100451,OMIZ 20MG CAP 20 - Capsule,Omiz,Prescription Medicines,Digestive Health,Omeprazole,Digestive Health,OMEPRAZOLE,Capsule,20,1,0,0,45.95,SFDA drugs list,0,34.23,30
+P100452,PANTOLOC 20 - Tablet,Pantoloc,Prescription Medicines,Digestive Health,Pantoprazole,Digestive Health,PANTOPRAZOLE,Tablet,20,1,0,0,27.5,SFDA drugs list,0,21.47,30
+P100453,PANTOLOC 40 - Tablet,Pantoloc,Prescription Medicines,Digestive Health,Pantoprazole,Digestive Health,PANTOPRAZOLE,Tablet,40,1,0,0,57.0,SFDA drugs list,0,43.34,30
+P100454,PARIET 20MG E.C TAB 20 - Tablet,Pariet,Prescription Medicines,Digestive Health,Rabeprazole Sodium,Digestive Health,RABEPRAZOLE SODIUM,Tablet,20,1,0,0,19.7,SFDA drugs list,0,15.02,30
+P100455,PEPTAZOLE 15MG CAPSULE 15 - Capsule,Peptazole,Prescription Medicines,Digestive Health,Lansoprazole,Digestive Health,LANSOPRAZOLE,Capsule,15,1,0,0,22.95,SFDA drugs list,0,17.9,30
+P100456,PEPTAZOLE 30MG CAPSULE 30 - Capsule,Peptazole,Prescription Medicines,Digestive Health,Lansoprazole,Digestive Health,LANSOPRAZOLE,Capsule,30,1,0,0,45.95,SFDA drugs list,0,34.39,30
+P100457,RAMEP 20 MG GASTRO-RESISTANT TABLET 20 - Gastro-resistant tablet,Ramep,Prescription Medicines,Digestive Health,Rabeprazole Sodium,Digestive Health,RABEPRAZOLE SODIUM,Gastro-resistant tablet,20,1,0,0,30.15,SFDA drugs list,0,24.68,30
+P100458,RAZON 40 MG E.C TAB 40 - Tablet,Razon,Prescription Medicines,Digestive Health,Pantoprazole,Digestive Health,PANTOPRAZOLE,Tablet,40,1,0,0,35.15,SFDA drugs list,0,26.71,30
+P100459,"RISEK 10 - Capsule, hard",Risek,Prescription Medicines,Digestive Health,Omeprazole,Digestive Health,OMEPRAZOLE,"Capsule, hard",10,1,0,0,23.0,SFDA drugs list,0,17.95,30
+P100460,VERINE 135MG TAB 135 - Tablet,Verine,Prescription Medicines,Digestive Health,Mebeverine Hydrochloride,Digestive Health,MEBEVERINE HYDROCHLORIDE,Tablet,135,1,0,0,21.65,SFDA drugs list,0,16.57,30
+P100461,ALDACTONE TAB 100 - Tablet,Aldactone,Prescription Medicines,Hypertension & Heart,Spironolactone,Hypertension & Heart,SPIRONOLACTONE,Tablet,100,1,1,0,25.05,SFDA drugs list,0,18.4,30
+P100462,ALDACTONE TAB 25 - Tablet,Aldactone,Prescription Medicines,Hypertension & Heart,Spironolactone,Hypertension & Heart,SPIRONOLACTONE,Tablet,25,1,1,0,18.0,SFDA drugs list,0,14.29,30
+P100463,APROVEL 150MG TAB 150 - Tablet,Aprovel,Prescription Medicines,Hypertension & Heart,Irbesartan,Hypertension & Heart,IRBESARTAN,Tablet,150,1,1,0,63.0,SFDA drugs list,0,50.33,30
+P100464,ARENA 300MG TABLET 300 - Tablet,Arena,Prescription Medicines,Hypertension & Heart,Irbesartan,Hypertension & Heart,IRBESARTAN,Tablet,300,1,1,0,58.9,SFDA drugs list,0,44.64,30
+P100465,ATACAND 8 MG TAB 8 - Tablet,Atacand,Prescription Medicines,Hypertension & Heart,Candesartan Cilexetil,Hypertension & Heart,CANDESARTAN CILEXETIL,Tablet,8,1,1,0,55.1,SFDA drugs list,0,43.02,30
+P100466,Avysk 160 - Film-coated tablet,Avysk,Prescription Medicines,Hypertension & Heart,Valsartan,Hypertension & Heart,VALSARTAN,Film-coated tablet,160,1,1,0,24.5,SFDA drugs list,0,19.88,30
+P100467,Avysk 80 - Film-coated tablet,Avysk,Prescription Medicines,Hypertension & Heart,Valsartan,Hypertension & Heart,VALSARTAN,Film-coated tablet,80,1,1,0,22.4,SFDA drugs list,0,17.92,30
+P100468,BISOLOL 5 mg Tablet 5 - Tablet,Bisolol,Prescription Medicines,Hypertension & Heart,Bisoprolol Fumarate,Hypertension & Heart,BISOPROLOL FUMARATE,Tablet,5,1,1,0,16.25,SFDA drugs list,0,12.69,30
+P100469,BLOPRESS 8MG TAB. 8 - Tablet,Blopress,Prescription Medicines,Hypertension & Heart,Candesartan Cilexetil,Hypertension & Heart,CANDESARTAN CILEXETIL,Tablet,8,1,1,0,47.7,SFDA drugs list,0,38.28,30
+P100470,Betaten 100 - Film-coated tablet,Betaten,Prescription Medicines,Hypertension & Heart,Atenolol,Hypertension & Heart,ATENOLOL,Film-coated tablet,100,1,1,0,485.6,SFDA drugs list,0,380.97,30
+P100471,Betaten 50 - Film-coated tablet,Betaten,Prescription Medicines,Hypertension & Heart,Atenolol,Hypertension & Heart,ATENOLOL,Film-coated tablet,50,1,1,0,242.8,SFDA drugs list,0,191.58,30
+P100472,CARVIDOL 25 MG TAB 25 - Tablet,Carvidol,Prescription Medicines,Hypertension & Heart,Carvedilol,Hypertension & Heart,CARVEDILOL,Tablet,25,1,1,0,47.25,SFDA drugs list,0,37.48,30
+P100473,CARVIDOL 6.25MG TABLET 6.25 - Tablet,Carvidol,Prescription Medicines,Hypertension & Heart,Carvedilol,Hypertension & Heart,CARVEDILOL,Tablet,6.25,1,1,0,26.4,SFDA drugs list,0,20.09,30
+P100474,CONCOR 10 - Film-coated tablet,Concor,Prescription Medicines,Hypertension & Heart,Bisoprolol Fumarate,Hypertension & Heart,BISOPROLOL FUMARATE,Film-coated tablet,10,1,1,0,35.4,SFDA drugs list,0,27.3,30
+P100475,CONCOR 5 - Film-coated tablet,Concor,Prescription Medicines,Hypertension & Heart,Bisoprolol Fumarate,Hypertension & Heart,BISOPROLOL FUMARATE,Film-coated tablet,5,1,1,0,29.25,SFDA drugs list,0,23.26,30
+P100476,COZAAR 50 - Film-coated tablet,Cozaar,Prescription Medicines,Hypertension & Heart,Losartan Potassium,Hypertension & Heart,LOSARTAN POTASSIUM,Film-coated tablet,50,1,1,0,45.35,SFDA drugs list,0,35.66,30
+P100477,Cenoril 10 - Film-coated tablet,Cenoril,Prescription Medicines,Hypertension & Heart,Perindopril Arginine,Hypertension & Heart,PERINDOPRIL ARGININE,Film-coated tablet,10,1,1,0,36.9,SFDA drugs list,0,27.73,30
+P100478,DILATREND 25MG TABLET 25 - Tablet,Dilatrend,Prescription Medicines,Hypertension & Heart,Carvedilol,Hypertension & Heart,CARVEDILOL,Tablet,25,1,1,0,47.25,SFDA drugs list,0,37.58,30
+P100479,DROLINA 1 - Oral solution,Drolina,Prescription Medicines,Hypertension & Heart,Furosemide,Hypertension & Heart,FUROSEMIDE,Oral solution,1,1,1,0,19.4,SFDA drugs list,0,14.65,30
+P100480,DROLINA 20 - Tablet,Drolina,Prescription Medicines,Hypertension & Heart,Furosemide,Hypertension & Heart,FUROSEMIDE,Tablet,20,1,1,0,30.0,SFDA drugs list,0,22.7,30
+P100481,DROLINA 40 - Tablet,Drolina,Prescription Medicines,Hypertension & Heart,Furosemide,Hypertension & Heart,FUROSEMIDE,Tablet,40,1,1,0,60.0,SFDA drugs list,0,45.82,30
+P100482,GARDIA 8 - Tablet,Gardia,Prescription Medicines,Hypertension & Heart,Candesartan Cilexetil,Hypertension & Heart,CANDESARTAN CILEXETIL,Tablet,8,1,1,0,23.45,SFDA drugs list,0,18.24,30
+P100483,NATRILIX 1.5 MG S.R TAB 1.5 - Prolonged-release film-coated tablet,Natrilix,Prescription Medicines,Hypertension & Heart,Indapamide,Hypertension & Heart,INDAPAMIDE,Prolonged-release film-coated tablet,1.5,1,1,0,27.6,SFDA drugs list,0,20.73,30
+P100484,NORACTONE 25 - Tablet,Noractone,Prescription Medicines,Hypertension & Heart,Spironolactone,Hypertension & Heart,SPIRONOLACTONE,Tablet,25,1,1,0,9.05,SFDA drugs list,0,6.81,30
+P100485,NORMALIX SR 1.5 mg modified-release tablet 1.5 - Modified-release tablet,Normalix,Prescription Medicines,Hypertension & Heart,Indapamide,Hypertension & Heart,INDAPAMIDE,Modified-release tablet,1.5,1,1,0,24.65,SFDA drugs list,0,19.33,30
+P100486,Normoten 50 - Film-coated tablet,Normoten,Prescription Medicines,Hypertension & Heart,Atenolol,Hypertension & Heart,ATENOLOL,Film-coated tablet,50,1,1,0,139.85,SFDA drugs list,0,108.99,30
+P100487,Olmy 20 - Film-coated tablet,Olmy,Prescription Medicines,Hypertension & Heart,Olmesartan Medoxomil,Hypertension & Heart,OLMESARTAN MEDOXOMIL,Film-coated tablet,20,1,1,0,38.7,SFDA drugs list,0,31.47,30
+P100488,Olmy 40 - Film-coated tablet,Olmy,Prescription Medicines,Hypertension & Heart,Olmesartan Medoxomil,Hypertension & Heart,OLMESARTAN MEDOXOMIL,Film-coated tablet,40,1,1,0,51.5,SFDA drugs list,0,42.05,30
+P100489,Omace 5 - Tablet,Omace,Prescription Medicines,Hypertension & Heart,Lisinopril,Hypertension & Heart,LISINOPRIL,Tablet,5,1,1,0,474.0,SFDA drugs list,0,352.99,30
+P100490,Osart 100 - Film-coated tablet,Osart,Prescription Medicines,Hypertension & Heart,Losartan Potassium,Hypertension & Heart,LOSARTAN POTASSIUM,Film-coated tablet,100,1,1,0,47.5,SFDA drugs list,0,39.12,30
+P100491,Osart 50 - Film-coated tablet,Osart,Prescription Medicines,Hypertension & Heart,Losartan Potassium,Hypertension & Heart,LOSARTAN POTASSIUM,Film-coated tablet,50,1,1,0,40.8,SFDA drugs list,0,30.1,30
+P100492,Ozevlor 40 - Tablet,Ozevlor,Prescription Medicines,Hypertension & Heart,Telmisartan,Hypertension & Heart,TELMISARTAN,Tablet,40,1,1,0,45.15,SFDA drugs list,0,35.41,30
+P100493,Ozevlor 80 - Tablet,Ozevlor,Prescription Medicines,Hypertension & Heart,Telmisartan,Hypertension & Heart,TELMISARTAN,Tablet,80,1,1,0,60.05,SFDA drugs list,0,47.81,30
+P100494,"Prenewel 4,1.25 - Tablet",Prenewel,Prescription Medicines,Hypertension & Heart,Perindopril,Hypertension & Heart,"PERINDOPRIL,INDAPAMIDE",Tablet,"4,1.25",1,1,0,29.35,SFDA drugs list,0,24.11,30
+P100495,"Prenewel 8,2.5 - Tablet",Prenewel,Prescription Medicines,Hypertension & Heart,Perindopril,Hypertension & Heart,"PERINDOPRIL,INDAPAMIDE",Tablet,"8,2.5",1,1,0,58.7,SFDA drugs list,0,46.78,30
+P100496,Ribex 150 - Film-coated tablet,Ribex,Prescription Medicines,Hypertension & Heart,Irbesartan,Hypertension & Heart,IRBESARTAN,Film-coated tablet,150,1,1,0,21.3,SFDA drugs list,0,17.74,30
+P100497,Sarolm 40 - Film-coated tablet,Sarolm,Prescription Medicines,Hypertension & Heart,Olmesartan Medoxomil,Hypertension & Heart,OLMESARTAN MEDOXOMIL,Film-coated tablet,40,1,1,0,51.5,SFDA drugs list,0,38.11,30
+P100498,Telfocus 40 - Tablet,Telfocus,Prescription Medicines,Hypertension & Heart,Telmisartan,Hypertension & Heart,TELMISARTAN,Tablet,40,1,1,0,36.6,SFDA drugs list,0,28.05,30
+P100499,VASCODIPINE 10 - Tablet,Vascodipine,Prescription Medicines,Hypertension & Heart,Amlodipine Besilate,Hypertension & Heart,AMLODIPINE BESILATE,Tablet,10,1,1,0,64.4,SFDA drugs list,0,52.9,30
+P100500,VASCODIPINE 2.5 - Tablet,Vascodipine,Prescription Medicines,Hypertension & Heart,Amlodipine Besilate,Hypertension & Heart,AMLODIPINE BESILATE,Tablet,2.5,1,1,0,27.45,SFDA drugs list,0,20.05,30
+P100501,VASCODIPINE 5 - Tablet,Vascodipine,Prescription Medicines,Hypertension & Heart,Amlodipine Besilate,Hypertension & Heart,AMLODIPINE BESILATE,Tablet,5,1,1,0,53.35,SFDA drugs list,0,42.9,30
+P100502,Vapress 80 - Film-coated tablet,Vapress,Prescription Medicines,Hypertension & Heart,Valsartan,Hypertension & Heart,VALSARTAN,Film-coated tablet,80,1,1,0,20.9,SFDA drugs list,0,16.09,30
+P100503,ZINOPRIL 10 - Tablet,Zinopril,Prescription Medicines,Hypertension & Heart,Lisinopril,Hypertension & Heart,LISINOPRIL,Tablet,10,1,1,0,221.0,SFDA drugs list,0,167.87,30
+P100504,ZINOPRIL 5 - Tablet,Zinopril,Prescription Medicines,Hypertension & Heart,Lisinopril,Hypertension & Heart,LISINOPRIL,Tablet,5,1,1,0,134.3,SFDA drugs list,0,103.21,30
+P100505,Dandaxa 5 - Coated tablet,Dandaxa,Prescription Medicines,Men's Health,Tadalafil,Men's Health,TADALAFIL,Coated tablet,5,1,0,0,120.0,SFDA drugs list,0,98.09,30
+P100506,Falofil 5 - Tablet,Falofil,Prescription Medicines,Men's Health,Tadalafil,Men's Health,TADALAFIL,Tablet,5,1,0,0,17.15,SFDA drugs list,0,13.21,30
+P100507,Herox 20 - Film-coated tablet,Herox,Prescription Medicines,Men's Health,Tadalafil,Men's Health,TADALAFIL,Film-coated tablet,20,1,0,0,40.0,SFDA drugs list,0,32.53,30
+P100508,Kamagra 100 - Tablet,Kamagra,Prescription Medicines,Men's Health,Sildenafil,Men's Health,SILDENAFIL,Tablet,100,1,0,0,39.35,SFDA drugs list,0,31.93,30
+P100509,Kamagra 25 - Tablet,Kamagra,Prescription Medicines,Men's Health,Sildenafil,Men's Health,SILDENAFIL,Tablet,25,1,0,0,36.3,SFDA drugs list,0,28.6,30
+P100510,Kamagra 50 - Tablet,Kamagra,Prescription Medicines,Men's Health,Sildenafil,Men's Health,SILDENAFIL,Tablet,50,1,0,0,39.35,SFDA drugs list,0,30.93,30
+P100511,DAVLEX 50 - Film-coated tablet,Davlex,Prescription Medicines,Neurology & Mental Health,Desvenlafaxine Succinate,Neurology & Mental Health,DESVENLAFAXINE SUCCINATE,Film-coated tablet,50,1,1,0,74.55,SFDA drugs list,0,60.77,30
+P100512,Episol 100 - Oral solution,Episol,Prescription Medicines,Neurology & Mental Health,Levetiracetam,Neurology & Mental Health,LEVETIRACETAM,Oral solution,100,1,1,0,165.7,SFDA drugs list,0,134.43,30
+P100513,Exopex 10 - Film-coated tablet,Exopex,Prescription Medicines,Neurology & Mental Health,Escitalopram,Neurology & Mental Health,ESCITALOPRAM,Film-coated tablet,10,1,1,0,23.2,SFDA drugs list,0,19.47,30
+P100514,Exopex 20 - Film-coated tablet,Exopex,Prescription Medicines,Neurology & Mental Health,Escitalopram,Neurology & Mental Health,ESCITALOPRAM,Film-coated tablet,20,1,1,0,23.2,SFDA drugs list,0,20.36,30
+P100515,"FLOZAK 20 - Capsule, hard",Flozak,Prescription Medicines,Neurology & Mental Health,Fluoxetine,Neurology & Mental Health,FLUOXETINE,"Capsule, hard",20,1,1,0,83.85,SFDA drugs list,0,65.28,30
+P100516,Fluxetyl 4 - Oral solution,Fluxetyl,Prescription Medicines,Neurology & Mental Health,Fluoxetine,Neurology & Mental Health,FLUOXETINE,Oral solution,4,1,1,0,69.0,SFDA drugs list,0,51.06,30
+P100517,GAPENTIN 300 - Capsule,Gapentin,Prescription Medicines,Neurology & Mental Health,Gabapentin,Neurology & Mental Health,GABAPENTIN,Capsule,300,1,1,0,89.8,SFDA drugs list,0,68.56,30
+P100518,LAMICTAL 25 - Tablet,Lamictal,Prescription Medicines,Neurology & Mental Health,Lamotrigine,Neurology & Mental Health,LAMOTRIGINE,Tablet,25,1,1,0,32.65,SFDA drugs list,0,24.4,30
+P100519,LAMICTAL 50 - Tablet,Lamictal,Prescription Medicines,Neurology & Mental Health,Lamotrigine,Neurology & Mental Health,LAMOTRIGINE,Tablet,50,1,1,0,57.2,SFDA drugs list,0,45.79,30
+P100520,LUSTRAL 50MG TAB 50 - Tablet,Lustral,Prescription Medicines,Neurology & Mental Health,Sertraline,Neurology & Mental Health,SERTRALINE,Tablet,50,1,1,0,95.7,SFDA drugs list,0,74.71,30
+P100521,"LYRICA 75 75 - Capsule, hard",Lyrica,Prescription Medicines,Neurology & Mental Health,Pregabalin,Neurology & Mental Health,PREGABALIN,"Capsule, hard",75,1,1,0,48.05,SFDA drugs list,0,37.56,30
+P100522,Lamictal 100 - Tablet,Lamictal,Prescription Medicines,Neurology & Mental Health,Lamotrigine,Neurology & Mental Health,LAMOTRIGINE,Tablet,100,1,1,0,91.3,SFDA drugs list,0,74.7,30
+P100523,"Lepica 150 - Capsule, hard",Lepica,Prescription Medicines,Neurology & Mental Health,Pregabalin,Neurology & Mental Health,PREGABALIN,"Capsule, hard",150,1,1,0,71.95,SFDA drugs list,0,56.02,30
+P100524,"Lepica 75 - Capsule, hard",Lepica,Prescription Medicines,Neurology & Mental Health,Pregabalin,Neurology & Mental Health,PREGABALIN,"Capsule, hard",75,1,1,0,51.4,SFDA drugs list,0,39.85,30
+P100525,Lustalin 50 - Film-coated tablet,Lustalin,Prescription Medicines,Neurology & Mental Health,Sertraline,Neurology & Mental Health,SERTRALINE,Film-coated tablet,50,1,1,0,95.7,SFDA drugs list,0,76.63,30
+P100526,NEURITAM 100 - Oral solution,Neuritam,Prescription Medicines,Neurology & Mental Health,Levetiracetam,Neurology & Mental Health,LEVETIRACETAM,Oral solution,100,1,1,0,167.2,SFDA drugs list,0,127.85,30
+P100527,Pentix 300 - Capsule,Pentix,Prescription Medicines,Neurology & Mental Health,Gabapentin,Neurology & Mental Health,GABAPENTIN,Capsule,300,1,1,0,39.25,SFDA drugs list,0,30.57,30
+P100528,Pentix 400 - Capsule,Pentix,Prescription Medicines,Neurology & Mental Health,Gabapentin,Neurology & Mental Health,GABAPENTIN,Capsule,400,1,1,0,46.15,SFDA drugs list,0,34.88,30
+P100529,Racitam 100 - Oral solution,Racitam,Prescription Medicines,Neurology & Mental Health,Levetiracetam,Neurology & Mental Health,LEVETIRACETAM,Oral solution,100,1,1,0,83.6,SFDA drugs list,0,64.67,30
+P100530,SALIPAX 20 20 - Capsule,Salipax,Prescription Medicines,Neurology & Mental Health,Fluoxetine,Neurology & Mental Health,FLUOXETINE,Capsule,20,1,1,0,84.45,SFDA drugs list,0,67.21,30
+P100531,Sertidep 50 - Film-coated tablet,Sertidep,Prescription Medicines,Neurology & Mental Health,Sertraline,Neurology & Mental Health,SERTRALINE,Film-coated tablet,50,1,1,0,95.7,SFDA drugs list,0,80.96,30
+P100532,Varenya 100 - Extended-release tablet,Varenya,Prescription Medicines,Neurology & Mental Health,Desvenlafaxine Succinate,Neurology & Mental Health,DESVENLAFAXINE SUCCINATE,Extended-release tablet,100,1,1,0,75.4,SFDA drugs list,0,56.25,30
+P100533,Varenya 50 - Extended-release tablet,Varenya,Prescription Medicines,Neurology & Mental Health,Desvenlafaxine Succinate,Neurology & Mental Health,DESVENLAFAXINE SUCCINATE,Extended-release tablet,50,1,1,0,51.05,SFDA drugs list,0,41.26,30
+P100534,Celia 200 - Capsule,Celia,Prescription Medicines,Pain & Fever,Celecoxib,Pain & Fever,CELECOXIB,Capsule,200,1,0,0,25.0,SFDA drugs list,0,19.23,30
+P100535,Celia 400 - Capsule,Celia,Prescription Medicines,Pain & Fever,Celecoxib,Pain & Fever,CELECOXIB,Capsule,400,1,0,0,25.0,SFDA drugs list,0,19.42,30
+P100536,Dolibz 200 - Capsule,Dolibz,Prescription Medicines,Pain & Fever,Celecoxib,Pain & Fever,CELECOXIB,Capsule,200,1,0,0,25.0,SFDA drugs list,0,20.2,30
+P100537,Etoxib 60 - Film-coated tablet,Etoxib,Prescription Medicines,Pain & Fever,Etoricoxib,Pain & Fever,Etoricoxib,Film-coated tablet,60,1,0,0,41.0,SFDA drugs list,0,34.32,30
+P100538,Etoxib 90 - Film-coated tablet,Etoxib,Prescription Medicines,Pain & Fever,Etoricoxib,Pain & Fever,Etoricoxib,Film-coated tablet,90,1,0,0,41.0,SFDA drugs list,0,32.54,30
+P100539,Exitor 90 - Film-coated tablet,Exitor,Prescription Medicines,Pain & Fever,Etoricoxib,Pain & Fever,Etoricoxib,Film-coated tablet,90,1,0,0,41.0,SFDA drugs list,0,33.57,30
+P100540,Carbimazole Macleods 5 - Tablet,Carbimazole,Prescription Medicines,Thyroid,Carbimazole,Thyroid,CARBIMAZOLE,Tablet,5,1,1,0,20.75,SFDA drugs list,0,16.37,30
+P100541,EUTHYROX 0.1 - Tablet,Euthyrox,Prescription Medicines,Thyroid,Levothyroxine Sodium,Thyroid,LEVOTHYROXINE SODIUM,Tablet,0.1,1,1,0,31.35,SFDA drugs list,0,24.38,30
+P100542,Levogand 25 - Tablet,Levogand,Prescription Medicines,Thyroid,Levothyroxine Sodium,Thyroid,LEVOTHYROXINE SODIUM,Tablet,25,1,1,0,15.35,SFDA drugs list,0,12.01,30
+P100543,Levogand 50 - Tablet,Levogand,Prescription Medicines,Thyroid,Levothyroxine Sodium,Thyroid,LEVOTHYROXINE SODIUM,Tablet,50,1,1,0,20.0,SFDA drugs list,0,15.15,30
+P100544,NEO-MERCAZOLE 5MG TAB 5 - Tablet,Neo-Mercazole,Prescription Medicines,Thyroid,Carbimazole,Thyroid,CARBIMAZOLE,Tablet,5,1,1,0,21.85,SFDA drugs list,0,16.29,30
+P100545,Allocar 1 - Film-coated tablet,Allocar,Prescription Medicines,Urology,Finasteride,Urology,FINASTERIDE,Film-coated tablet,1,1,1,0,90.0,SFDA drugs list,0,66.74,30
+P100546,Allocar 5 - Film-coated tablet,Allocar,Prescription Medicines,Urology,Finasteride,Urology,FINASTERIDE,Film-coated tablet,5,1,1,0,68.45,SFDA drugs list,0,51.17,30
+P100547,Dergit 5 - Film-coated tablet,Dergit,Prescription Medicines,Urology,Solifenacin Succinate,Urology,SOLIFENACIN SUCCINATE,Film-coated tablet,5,1,1,0,84.7,SFDA drugs list,0,64.66,30
+P100548,KINZY 5 - Film-coated tablet,Kinzy,Prescription Medicines,Urology,Solifenacin Succinate,Urology,SOLIFENACIN SUCCINATE,Film-coated tablet,5,1,1,0,84.7,SFDA drugs list,0,65.41,30
+P100549,Oxintel 0.4 - Capsule,Oxintel,Prescription Medicines,Urology,Tamsulosin Hydrochloride,Urology,TAMSULOSIN HYDROCHLORIDE,Capsule,0.4,1,1,0,63.0,SFDA drugs list,0,51.02,30
+P100550,PROSCAR 5 - Film-coated tablet,Proscar,Prescription Medicines,Urology,Finasteride,Urology,FINASTERIDE,Film-coated tablet,5,1,1,0,75.15,SFDA drugs list,0,60.66,30
+P100551,PROSTA TAB 0.4 - Prolonged-release tablet,Prosta,Prescription Medicines,Urology,Tamsulosin Hydrochloride,Urology,TAMSULOSIN HYDROCHLORIDE,Prolonged-release tablet,0.4,1,1,0,77.8,SFDA drugs list,0,59.61,30
+P100552,"Tamosymp 0.4 - Modified-release capsule, hard",Tamosymp,Prescription Medicines,Urology,Tamsulosin Hydrochloride,Urology,TAMSULOSIN HYDROCHLORIDE,"Modified-release capsule, hard",0.4,1,1,0,63.05,SFDA drugs list,0,45.37,30
+P100553,Veslo 5 - Film-coated tablet,Veslo,Prescription Medicines,Urology,Solifenacin Succinate,Urology,SOLIFENACIN SUCCINATE,Film-coated tablet,5,1,1,0,84.7,SFDA drugs list,0,62.19,30
+P100554,Auxiton 10 - Film-coated tablet,Auxiton,Prescription Medicines,Women's Health,Dydrogesterone,Women's Health,DYDROGESTERONE,Film-coated tablet,10,1,0,0,31.75,SFDA drugs list,0,23.36,30
+P100555,CYCLOGEST 200MG PESSARIES 200 - Pessary,Cyclogest,Prescription Medicines,Women's Health,Progesterone,Women's Health,PROGESTERONE,Pessary,200,1,0,0,66.2,SFDA drugs list,0,52.81,30
+P100556,Crinone 8 - Vaginal gel,Crinone,Prescription Medicines,Women's Health,Progesterone,Women's Health,PROGESTERONE,Vaginal gel,8,1,0,0,185.05,SFDA drugs list,0,133.5,30
+P100557,Eleen 10 - Film-coated tablet,Eleen,Prescription Medicines,Women's Health,Dydrogesterone,Women's Health,DYDROGESTERONE,Film-coated tablet,10,1,0,0,37.05,SFDA drugs list,0,30.4,30
+P100558,"Lutigest 200 - Capsule, soft",Lutigest,Prescription Medicines,Women's Health,Progesterone,Women's Health,PROGESTERONE,"Capsule, soft",200,1,0,0,59.5,SFDA drugs list,0,46.76,30
+P100559,Ovatrone 10 - Film-coated tablet,Ovatrone,Prescription Medicines,Women's Health,Dydrogesterone,Women's Health,DYDROGESTERONE,Film-coated tablet,10,1,0,0,34.4,SFDA drugs list,0,26.79,30
+P100560,Slinda 4 - Film-coated tablet,Slinda,Prescription Medicines,Women's Health,Drospirenone,Women's Health,DROSPIRENONE,Film-coated tablet,4,1,0,0,43.55,SFDA drugs list,0,32.72,30
+P100561,21st Century B-12 1000 mcg Prolonged Release 110 Tablets,21st Century,Vitamins & Supplements,Diabetes Care,Diabetes Care,,,,,0,0,0,29.74,Retail website reference,0,19.62,24
+P100562,Holland And Barrett Vitamin B12 1000 mcg 100 Tablets,Holland And Barrett,Vitamins & Supplements,Diabetes Care,Diabetes Care,,,,,0,0,0,65.2,Retail website reference,0,41.9,24
+P100563,KAL Stress-B Vitamin B Complex & Magnesium Glycinate 60 Capsules,KAL,Vitamins & Supplements,Diabetes Care,Diabetes Care,,,,,0,0,0,34.96,Retail website reference,0,22.67,24
+P100564,Solaray Chromium Picolinate 200 mcg - 100 Tablets,Solaray,Vitamins & Supplements,Diabetes Care,Diabetes Care,,,,,0,0,0,49.0,Retail website reference,0,31.61,24
+P100565,Solgar Chromium Picolinate 500 mcg 60 Capsules,Solgar,Vitamins & Supplements,Diabetes Care,Diabetes Care,,,,,0,0,0,30.99,Retail website reference,0,20.17,24
+P100566,Cystine B6 + Zinc 120 Tablets,Cystine B6,Vitamins & Supplements,Hair Vitamins,Hair Vitamins,,,,,0,0,0,115.4,Retail website reference,0,75.55,24
+P100567,Priorin Extra Hair Growth Support With Biotin - 60 Capsules,Priorin,Vitamins & Supplements,Hair Vitamins,Hair Vitamins,,,,,0,0,0,194.35,Retail website reference,0,122.9,24
+P100568,Priorin N Restorative For Hair 90 Capsules,Priorin,Vitamins & Supplements,Hair Vitamins,Hair Vitamins,,,,,0,0,0,86.55,Retail website reference,0,55.25,24
+P100569,Sensilab Beauty Hair & Nails 60 Gummies,Sensilab,Vitamins & Supplements,Hair Vitamins,Hair Vitamins,,,,,0,0,0,205.85,Retail website reference,0,138.62,24
+P100570,Vitabiotics Feroglobin B12 With Iron 30 Capsules,Vitabiotics,Vitamins & Supplements,Hair Vitamins,Hair Vitamins,,,,,0,0,0,25.2,Retail website reference,0,16.55,24
+P100571,Vitabiotics Perfectil Multivitamin & Multimineral 30 Capsules,Vitabiotics,Vitamins & Supplements,Hair Vitamins,Hair Vitamins,,,,,0,0,0,28.85,Retail website reference,0,19.41,24
+P100572,Doctor's Best Omega 3 Fish Oil 2000 mg 120 Softgels,Doctor's Best,Vitamins & Supplements,Heart Health,Heart Health,,,,,0,0,0,139.0,Retail website reference,0,95.4,24
+P100573,Holista High Potency Omega 3 1425 mg - 80 Softgels,Holista,Vitamins & Supplements,Heart Health,Heart Health,,,,,0,0,0,194.99,Retail website reference,0,115.86,24
+P100574,Nordic Naturals Ultimate Omega-D3 - 60 Softgels,Nordic Naturals,Vitamins & Supplements,Heart Health,Heart Health,,,,,0,0,0,127.36,Retail website reference,0,89.8,24
+P100575,Solgar Omega 3 950 mg 50 Softgels,Solgar,Vitamins & Supplements,Heart Health,Heart Health,,,,,0,0,0,82.9,Retail website reference,0,56.3,24
+P100576,Solgar Omega 3 Fish Oil Concentrate - 120 Softgels,Solgar,Vitamins & Supplements,Heart Health,Heart Health,,,,,0,0,0,58.99,Retail website reference,0,37.58,24
+P100577,Al Shifa Vitamin C 1000 mg Effervescent 20 Tablets,Al Shifa,Vitamins & Supplements,Immunity,Vitamin C,,,,,0,0,0,18.95,Private label (invented),1,8.87,24
+P100578,Al Shifa Zinc 50 mg 60 Tablets,Al Shifa,Vitamins & Supplements,Immunity,Zinc,,,,,0,0,0,24.95,Private label (invented),1,10.66,24
+P100579,Argivit Smart Syrup for Kids - 150 ml,Argivit,Vitamins & Supplements,Kids Health,Kids Health,,,,,0,0,0,99.99,Retail website reference,0,68.26,24
+P100580,Marnys Royal Junior + Vitamins 125 ml Liquid,Marnys,Vitamins & Supplements,Kids Health,Kids Health,,,,,0,0,0,11.95,Retail website reference,0,8.03,24
+P100581,Mothernest Multivitamins & Omega 3 60 Gummies,Mothernest,Vitamins & Supplements,Kids Health,Kids Health,,,,,0,0,0,155.25,Retail website reference,0,106.17,24
+P100582,Vidrop Vitamin D 2800 IU 15 ml Oral Drop,Vidrop,Vitamins & Supplements,Kids Health,Kids Health,,,,,0,0,0,9.3,Retail website reference,0,6.47,24
+P100583,Fatlos Orlistat 120 mg 80 Capsules,Fatlos,Vitamins & Supplements,Manage Your Weight,Manage Your Weight,,,,,0,0,0,115.45,Retail website reference,0,78.79,24
+P100584,Holista Vitalite Apple Cider Vinegar - 90 Gummies,Holista,Vitamins & Supplements,Manage Your Weight,Manage Your Weight,,,,,0,0,0,229.95,Retail website reference,0,161.93,24
+P100585,Nature's Truth Apple Cider Vinegar 600 mg - 75 Gummies,Nature's Truth,Vitamins & Supplements,Manage Your Weight,Manage Your Weight,,,,,0,0,0,60.69,Retail website reference,0,39.56,24
+P100586,Now Foods Tri-Chromium + Cinnamon 500 mcg - 180 Capsules,NOW Foods,Vitamins & Supplements,Manage Your Weight,Manage Your Weight,,,,,0,0,0,62.45,Retail website reference,0,38.52,24
+P100587,Zahler Chapter Six Apple Cider Vinegar 60 Gummies,Zahler,Vitamins & Supplements,Manage Your Weight,Manage Your Weight,,,,,0,0,0,73.6,Retail website reference,0,46.4,24
+P100588,Centrum Energy Multivitamins with Ginseng & Ginkgo - 30 Tablets,Centrum,Vitamins & Supplements,Multivitamins,Multivitamins,,,,,0,0,0,29.0,Retail website reference,0,18.8,24
+P100589,Centrum Women Multivitamin 30 Tablets,Centrum,Vitamins & Supplements,Multivitamins,Multivitamins,,,,,0,0,0,37.38,Retail website reference,0,23.62,24
+P100590,Centrum with Lutein Multivitamin 100 Tablets,Centrum,Vitamins & Supplements,Multivitamins,Multivitamins,,,,,0,0,0,55.0,Retail website reference,0,37.54,24
+P100591,Nature's Way Alive Women's Complete Multivitamin 60 Gummies,Nature's Way,Vitamins & Supplements,Multivitamins,Multivitamins,,,,,0,0,0,56.95,Retail website reference,0,37.1,24
+P100592,Vitabiotics Pregnacare Multivitamins For Women 30 Capsules,Vitabiotics,Vitamins & Supplements,Multivitamins,Multivitamins,,,,,0,0,0,20.4,Retail website reference,0,13.32,24
+P100593,21st Century Melatonin 10 mg Quick Dissolve 120 Tablets,21st Century,Vitamins & Supplements,Peaceful Sleep,Peaceful Sleep,,,,,0,0,0,44.5,Retail website reference,0,30.0,24
+P100594,21st Century Melatonin 3 mg 90 Tablets,21st Century,Vitamins & Supplements,Peaceful Sleep,Peaceful Sleep,,,,,0,0,0,22.55,Retail website reference,0,14.4,24
+P100595,Dream Water Melatonin 5 mg 74 ml Liquid,Dream Water,Vitamins & Supplements,Peaceful Sleep,Peaceful Sleep,,,,,0,0,0,16.0,Retail website reference,0,10.75,24
+P100596,Jamieson Melatonin 5 mg Fast Dissolving 30 Tablets,Jamieson,Vitamins & Supplements,Peaceful Sleep,Peaceful Sleep,,,,,0,0,0,69.0,Retail website reference,0,43.64,24
+P100597,ZzzQuil 30 Gummies,ZzzQuil,Vitamins & Supplements,Peaceful Sleep,Peaceful Sleep,,,,,0,0,0,95.04,Retail website reference,0,63.93,24
+P100598,Elevit Pronatal Women Multivitamin & Minerals 30 Tablets,Elevit,Vitamins & Supplements,Pregnancy Care,Pregnancy Care,,,,,0,0,0,39.0,Retail website reference,0,26.41,24
+P100599,Enzymedica Omega-3 Maximum Strength 2000 mg 60 Softgels,Enzymedica,Vitamins & Supplements,Pregnancy Care,Pregnancy Care,,,,,0,0,0,102.22,Retail website reference,0,71.72,24
+P100600,Vitabiotics Osteocare Calcium & Vitamin D 30 Tablets,Vitabiotics,Vitamins & Supplements,Pregnancy Care,Pregnancy Care,,,,,0,0,0,21.0,Retail website reference,0,13.67,24
+P100601,Vitabiotics Pregnacare Breastfeeding 56 Tabs + 28 Caps,Vitabiotics,Vitamins & Supplements,Pregnancy Care,Pregnancy Care,,,,,0,0,0,115.0,Retail website reference,0,71.44,24
+P100602,Activlab Collagen Beauty Shot 5000 mg,Activlab,Vitamins & Supplements,Skin Vitamins,Skin Vitamins,,,,,0,0,0,19.99,Retail website reference,0,13.38,24
+P100603,"Bioglan Collagen, Vitamin C & Biotin 20 Effervescent Tablets",Bioglan,Vitamins & Supplements,Skin Vitamins,Skin Vitamins,,,,,0,0,0,80.5,Retail website reference,0,53.58,24
+P100604,Collagen Plus - 15 Sachets,Collagen Plus,Vitamins & Supplements,Skin Vitamins,Skin Vitamins,,,,,0,0,0,258.75,Retail website reference,0,175.77,24
+P100605,"Jamieson Hair, Skin & Nails + Biotin - 60 Caplets",Jamieson,Vitamins & Supplements,Skin Vitamins,Skin Vitamins,,,,,0,0,0,189.0,Retail website reference,0,122.83,24
+P100606,Mason Natural Hair Skin & Nails 60 Capsules,Mason Natural,Vitamins & Supplements,Skin Vitamins,Skin Vitamins,,,,,0,0,0,39.68,Retail website reference,0,24.01,24
+P100607,Vitabiotics Perfectil Plus Skin 56 Tablets,Vitabiotics,Vitamins & Supplements,Skin Vitamins,Skin Vitamins,,,,,0,0,0,84.99,Retail website reference,0,53.07,24
+P100608,"3V TABLETS 200,100,200 - Film-coated tablet",3V,Vitamins & Supplements,Vitamins & Minerals,Pyridoxine,Vitamins & Minerals,"PYRIDOXINE,THIAMINE,CYANOCOBALAMIN",Film-coated tablet,"200,100,200",0,0,0,12.4,SFDA drugs list,0,8.46,24
+P100609,"Agemo 1000 - Capsule, soft",Agemo,Vitamins & Supplements,Vitamins & Minerals,Omega-3-Acid Ethyl Esters,Vitamins & Minerals,OMEGA-3-ACID ETHYL ESTERS,"Capsule, soft",1000,0,0,0,200.35,SFDA drugs list,0,131.3,24
+P100610,Al Shifa Vitamin D3 5000 IU 60 Softgels,Al Shifa,Vitamins & Supplements,Vitamins & Minerals,Vitamin D,,,,,0,0,0,34.95,Private label (invented),1,15.74,24
+P100611,Essential D-3 5000 - Capsule,Essential,Vitamins & Supplements,Vitamins & Minerals,Cholecalciferol,Vitamins & Minerals,CHOLECALCIFEROL,Capsule,5000,0,0,0,55.0,SFDA drugs list,0,37.94,24
+P100612,FEROMIN 190 - Film-coated tablet,Feromin,Vitamins & Supplements,Vitamins & Minerals,Ferrous Sulfate,Vitamins & Minerals,FERROUS SULFATE,Film-coated tablet,190,0,0,0,15.6,SFDA drugs list,0,9.78,24
+P100613,FOLIC ACID 1 - Tablet,Folic,Vitamins & Supplements,Vitamins & Minerals,Folic Acid,Vitamins & Minerals,FOLIC ACID,Tablet,1,0,0,0,6.9,SFDA drugs list,0,4.18,24
+P100614,FOLIC ACID 5 - Tablet,Folic,Vitamins & Supplements,Vitamins & Minerals,Folic Acid,Vitamins & Minerals,FOLIC ACID,Tablet,5,0,0,0,6.9,SFDA drugs list,0,4.13,24
+P100615,HI-CAL 240 - Syrup,Hi-Cal,Vitamins & Supplements,Vitamins & Minerals,Calcium Glubionate,Vitamins & Minerals,CALCIUM GLUBIONATE,Syrup,240,0,0,0,6.5,SFDA drugs list,0,4.15,18
+P100616,KDIRON DROPS 25 - Drops,Kdiron,Vitamins & Supplements,Vitamins & Minerals,Ferrous Sulfate,Vitamins & Minerals,FERROUS SULFATE,Drops,25,0,0,0,8.4,SFDA drugs list,0,5.58,24
+P100617,"NEUROVIT tablet 250,100,250 - Coated tablet",Neurovit,Vitamins & Supplements,Vitamins & Minerals,Thiamine,Vitamins & Minerals,"THIAMINE,PYRIDOXINE,CYANOCOBALAMIN",Coated tablet,"250,100,250",0,0,0,10.0,SFDA drugs list,0,6.48,24
+P100618,"Neurovit 100,250,250 - Tablet",Neurovit,Vitamins & Supplements,Vitamins & Minerals,Pyridoxine,Vitamins & Minerals,"PYRIDOXINE,THIAMINE,CYANOCOBALAMIN",Tablet,"100,250,250",0,0,0,15.0,SFDA drugs list,0,9.78,24
+P100619,OMEGANA 1000MG SOFT CAPSULE 1000 - Capsule,Omegana,Vitamins & Supplements,Vitamins & Minerals,Omega-3-Acid Ethyl Esters,Vitamins & Minerals,OMEGA-3-ACID ETHYL ESTERS,Capsule,1000,0,0,0,48.95,SFDA drugs list,0,30.07,24
+P100620,"OMIPURE 1000 MG SOFT GELATIN CAPSULES 1000 - Capsule, soft",Omipure,Vitamins & Supplements,Vitamins & Minerals,Omega-3 Polyunsaturated Fatty Acids,Vitamins & Minerals,OMEGA-3 POLYUNSATURATED FATTY ACIDS,"Capsule, soft",1000,0,0,0,103.9,SFDA drugs list,0,66.49,24
+P100621,Sola D3 10000 - Tablet,Sola,Vitamins & Supplements,Vitamins & Minerals,Cholecalciferol,Vitamins & Minerals,CHOLECALCIFEROL,Tablet,10000,0,0,0,19.25,SFDA drugs list,0,12.52,24
+P100622,TeraD 50000 - Capsule,Terad,Vitamins & Supplements,Vitamins & Minerals,Cholecalciferol,Vitamins & Minerals,CHOLECALCIFEROL,Capsule,50000,0,0,0,88.15,SFDA drugs list,0,57.66,24

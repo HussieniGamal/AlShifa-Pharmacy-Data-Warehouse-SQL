@@ -1,0 +1,6 @@
+# generated source extracts are large (~850 MB at full scale): rebuild them with scripts/generate_data.py
+data/generated/
+*.duckdb
+*.duckdb.wal
+__pycache__/
+.ipynb_checkpoints/

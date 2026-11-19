@@ -1,0 +1,6 @@
+numpy>=1.26
+pandas>=2.1
+# only needed for scripts/test_sql.py (optional local verification without SQL Server)
+duckdb>=1.1
+sqlglot>=25
+tabulate>=0.9
